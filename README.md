@@ -9,7 +9,7 @@ My name is Gabriel, and I am a Hungarian software developer. I live in a small t
 - 📫 How to reach me: [arpad.g.bondor@gmail.com](mailto:arpad.g.bondor@gmail.com)
 - 🌟 Special thanks to everyone who starred my inventory management project! 💖 Seeing how many people appreciates my work, really helps me keep going. 
 
-## A little guide through my repositories:
+## A little guide for my repositories:
 
 - [Online Resume](https://github.com/ArpadGBondor/CV)
 
