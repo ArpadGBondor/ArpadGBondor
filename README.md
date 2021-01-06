@@ -3,7 +3,7 @@
 My name is Gabriel, and I am a Hungarian software developer. I live in a small town in Scotland, and I'm refreshing my web-development skills now.
 
 - 🔭 I'm currently working as a night porter to support myself, while I'm growing my skill set, and building my portfolio.
-- 🌱 I’m currently learning web development.
+- 🌱 I’m currently learning HTML5, CSS3, Bootstrap 4, JavaScript, NodeJS, Expres, EJS, SQL, MongoDB, ...
 - 👯 I’m looking to collaborate on something later, but I'd like to finish my current courses first.
 - 💬 Ask me about anything. I have an approximate knowledge of many things. 😎
 - 📫 How to reach me: [arpad.g.bondor@gmail.com](mailto:arpad.g.bondor@gmail.com)
