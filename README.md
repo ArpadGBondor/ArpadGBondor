@@ -54,7 +54,11 @@ My name is Gabriel, and I am a Hungarian software developer. I live in a small t
   - Huddle landing page with curved sections  
     [![Repo Card](https://github-readme-stats.arpadgbondor.vercel.app/api/pin/?username=ArpadGBondor&repo=Web_challenge_3-Frontend_Mentor-Huddle_landing_page_with_curved_sections&theme=radical)](https://github.com/ArpadGBondor/Web_challenge_3-Frontend_Mentor-Huddle_landing_page_with_curved_sections)
 - ### C# projects (2017):
-  - [Design patterns](https://github.com/ArpadGBondor/Design-pattern-tutorial-projects)
-  - [WPF - Simple RPG](https://github.com/ArpadGBondor/WPF-Simple-RPG-tutorial-project)
-  - [WCF - tutorial](https://github.com/ArpadGBondor/WCF-tutorial-projects)
-  - [Red's Inventory Management](https://github.com/ArpadGBondor/Red-Inventory-Management)
+  - Design patterns  
+    [![Repo Card](https://github-readme-stats.arpadgbondor.vercel.app/api/pin/?username=ArpadGBondor&repo=Design-pattern-tutorial-projects&theme=radical)](https://github.com/ArpadGBondor/Design-pattern-tutorial-projects)
+  - WPF - Simple RPG  
+    [![Repo Card](https://github-readme-stats.arpadgbondor.vercel.app/api/pin/?username=ArpadGBondor&repo=WPF-Simple-RPG-tutorial-project&theme=radical)](https://github.com/ArpadGBondor/WPF-Simple-RPG-tutorial-project)
+  - WCF - tutorial  
+    [![Repo Card](https://github-readme-stats.arpadgbondor.vercel.app/api/pin/?username=ArpadGBondor&repo=WCF-tutorial-projects&theme=radical)](https://github.com/ArpadGBondor/WCF-tutorial-projects)
+  - Red's Inventory Management  
+    [![Repo Card](https://github-readme-stats.arpadgbondor.vercel.app/api/pin/?username=ArpadGBondor&repo=Red-Inventory-Management&theme=radical)](https://github.com/ArpadGBondor/Red-Inventory-Management)
