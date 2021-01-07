@@ -10,10 +10,10 @@ My name is Gabriel, and I am a Hungarian software developer. I live in a small t
 
 ### Contact me:
 
-<a href="https://www.linkedin.com/in/arpad-gabor-bondor/"><img src="/icons/linkedin.svg" height=30 width=30 alt="https://www.linkedin.com/in/arpad-gabor-bondor/"></a>
-<a href="https://github.com/ArpadGBondor"><img src="/icons/github.svg" height=30 width=30 alt="https://github.com/ArpadGBondor"></a>
-<a href="https://www.facebook.com/arpad.g.bondor/"><img src="/icons/facebook.svg" height=30 width=30 alt="https://www.facebook.com/arpad.g.bondor/"></a>
-<a href="mailto:arpad.g.bondor@gmail.com"><img src="/icons/gmail.svg" height=30 width=30 alt="arpad.g.bondor@gmail.com"></a>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpad-gabor-bondor/)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArpadGBondor)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/arpad.g.bondor/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpad.g.bondor@gmail.com)
 
 -----
 
