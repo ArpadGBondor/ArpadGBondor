@@ -1,5 +1,3 @@
-[![Gabriel's github stats](https://github-readme-stats.arpadgbondor.vercel.app/api?username=ArpadGBondor&theme=radical&show_icons=true&custom_title=Gabriel%27s%20Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Hello, World! 👋
 
 My name is Gabriel, and I am a Hungarian software developer. I live in a small town in Scotland, and I'm refreshing my web-development skills now.
@@ -16,6 +14,10 @@ My name is Gabriel, and I am a Hungarian software developer. I live in a small t
 <a href="https://github.com/ArpadGBondor"><img src="/icons/github.svg" height=30 width=30 alt="https://github.com/ArpadGBondor"></a>
 <a href="https://www.facebook.com/arpad.g.bondor/"><img src="/icons/facebook.svg" height=30 width=30 alt="https://www.facebook.com/arpad.g.bondor/"></a>
 <a href="mailto:arpad.g.bondor@gmail.com"><img src="/icons/gmail.svg" height=30 width=30 alt="arpad.g.bondor@gmail.com"></a>
+
+-----
+
+[![Gabriel's github stats](https://github-readme-stats.arpadgbondor.vercel.app/api?username=ArpadGBondor&theme=radical&show_icons=true&custom_title=Gabriel%27s%20Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
 -----
 
