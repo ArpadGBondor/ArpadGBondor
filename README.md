@@ -2,18 +2,20 @@
 
 My name is Gabriel, and I am a Hungarian software developer. I live in a small town in Scotland, and I'm refreshing my web-development skills now.
 
-- 💂 I'm currently working as a night porter to support myself, while I'm growing my skill set, and building my portfolio.
+- 💂 I'm currently working as a night porter to support myself while I'm growing my skill set, and building my portfolio.
 - 💻 I’m currently learning HTML5, CSS3, Bootstrap 4, JavaScript, NodeJS, Expres, EJS, SQL, MongoDB, ...
 - 👯 I’m looking forward to collaborate on something later, but I'd like to finish my current courses first.
 - 💬 Ask me about anything. I have an approximate knowledge of many things. 😎
 - 💖 Special thanks to everyone who starred my inventory management project! Seeing how many people appreciates my work, really helps me keep going. 
+
+### Contact me:
 
 <a href="https://www.linkedin.com/in/arpad-gabor-bondor/"><img src="/icons/linkedin.svg" height=30 width=30 alt="https://www.linkedin.com/in/arpad-gabor-bondor/"></a>
 <a href="https://github.com/ArpadGBondor"><img src="/icons/github.svg" height=30 width=30 alt="https://github.com/ArpadGBondor"></a>
 <a href="https://www.facebook.com/arpad.g.bondor/"><img src="/icons/facebook.svg" height=30 width=30 alt="https://www.facebook.com/arpad.g.bondor/"></a>
 <a href="mailto:arpad.g.bondor@gmail.com"><img src="/icons/gmail.svg" height=30 width=30 alt="arpad.g.bondor@gmail.com"></a>
 
-## A little guide for my repositories:
+## My repositories:
 
 - [Online Resume](https://github.com/ArpadGBondor/CV)
 
