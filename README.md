@@ -21,12 +21,12 @@ My name is Gabriel, and I am a Hungarian software developer. I live in a small t
 
 -----
 
-### My repositories:
+## My repositories:
 
-- My online resume:  
+- ### My online resume:  
     [![Repo Card](https://github-readme-stats.arpadgbondor.vercel.app/api/pin/?username=ArpadGBondor&repo=CV&theme=radical)](https://github.com/ArpadGBondor/CV)
-- The App Brewery - Web Development Bootcamp (2020)
-  - Front-end projects:
+- ### The App Brewery - Web Development Bootcamp (2020)
+  - #### Front-end projects:
     - Project 01: Tindog  
       [![Repo Card](https://github-readme-stats.arpadgbondor.vercel.app/api/pin/?username=ArpadGBondor&repo=The_App_Brewery-Front-end_project_01-Tindog&theme=radical)](https://github.com/ArpadGBondor/The_App_Brewery-Front-end_project_01-Tindog)
     - Project 02: Dice Game  
@@ -35,7 +35,7 @@ My name is Gabriel, and I am a Hungarian software developer. I live in a small t
       [![Repo Card](https://github-readme-stats.arpadgbondor.vercel.app/api/pin/?username=ArpadGBondor&repo=The_App_Brewery-Front-end_project_03-Drum_kit&theme=radical)](https://github.com/ArpadGBondor/The_App_Brewery-Front-end_project_03-Drum_kit)
     - Project 04: The Simon Game  
       [![Repo Card](https://github-readme-stats.arpadgbondor.vercel.app/api/pin/?username=ArpadGBondor&repo=The_App_Brewery-Front-end_project_04-The_Simon_Game&theme=radical)](https://github.com/ArpadGBondor/The_App_Brewery-Front-end_project_04-The_Simon_Game)
-  - Back-end projects:
+  - #### Back-end projects:
     - Project 01: BMI calculator  
       [![Repo Card](https://github-readme-stats.arpadgbondor.vercel.app/api/pin/?username=ArpadGBondor&repo=The_App_Brewery-Back-end_project_01-BMI_calculator&theme=radical)](https://github.com/ArpadGBondor/The_App_Brewery-Back-end_project_01-BMI_calculator)
     - Project 02: Weather API  
@@ -46,11 +46,14 @@ My name is Gabriel, and I am a Hungarian software developer. I live in a small t
       [![Repo Card](https://github-readme-stats.arpadgbondor.vercel.app/api/pin/?username=ArpadGBondor&repo=The_App_Brewery-Back-end_project_04-To_Do_List&theme=radical)](https://github.com/ArpadGBondor/The_App_Brewery-Back-end_project_04-To_Do_List)
     - Project 05: Blog website  
       [![Repo Card](https://github-readme-stats.arpadgbondor.vercel.app/api/pin/?username=ArpadGBondor&repo=The_App_Brewery-Back-end_project_05-Blog_website&theme=radical)](https://github.com/ArpadGBondor/The_App_Brewery-Back-end_project_05-Blog_website)
-- Frontend Mentor (2020)
-  - [Social Proof Section](https://github.com/ArpadGBondor/Web_challenge_1-Frontend_Mentor-Social_proof_section)
-  - [Single Price Grid Component](https://github.com/ArpadGBondor/Web_challenge_2-Frontend_Mentor-Single-price-grid-component)
-  - [Huddle landing page with curved sections](https://github.com/ArpadGBondor/Web_challenge_3-Frontend_Mentor-Huddle_landing_page_with_curved_sections)
-- C# projects (2017):
+- ### Frontend Mentor (2020)
+  - Social Proof Section  
+    [![Repo Card](https://github-readme-stats.arpadgbondor.vercel.app/api/pin/?username=ArpadGBondor&repo=Web_challenge_1-Frontend_Mentor-Social_proof_section&theme=radical)](https://github.com/ArpadGBondor/Web_challenge_1-Frontend_Mentor-Social_proof_section)
+  - Single Price Grid Component  
+    [![Repo Card](https://github-readme-stats.arpadgbondor.vercel.app/api/pin/?username=ArpadGBondor&repo=Web_challenge_2-Frontend_Mentor-Single-price-grid-component&theme=radical)](https://github.com/ArpadGBondor/Web_challenge_2-Frontend_Mentor-Single-price-grid-component)
+  - Huddle landing page with curved sections  
+    [![Repo Card](https://github-readme-stats.arpadgbondor.vercel.app/api/pin/?username=ArpadGBondor&repo=Web_challenge_3-Frontend_Mentor-Huddle_landing_page_with_curved_sections&theme=radical)](https://github.com/ArpadGBondor/Web_challenge_3-Frontend_Mentor-Huddle_landing_page_with_curved_sections)
+- ### C# projects (2017):
   - [Design patterns](https://github.com/ArpadGBondor/Design-pattern-tutorial-projects)
   - [WPF - Simple RPG](https://github.com/ArpadGBondor/WPF-Simple-RPG-tutorial-project)
   - [WCF - tutorial](https://github.com/ArpadGBondor/WCF-tutorial-projects)
