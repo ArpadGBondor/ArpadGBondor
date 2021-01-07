@@ -1,3 +1,5 @@
+[![Gabriel's github stats](https://github-readme-stats.arpadgbondor.vercel.app/api?username=ArpadGBondor&theme=radical&show_icons=true&custom_title=Gabriel%27s%20Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Hello, World! 👋
 
 My name is Gabriel, and I am a Hungarian software developer. I live in a small town in Scotland, and I'm refreshing my web-development skills now.
