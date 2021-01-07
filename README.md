@@ -23,7 +23,8 @@ My name is Gabriel, and I am a Hungarian software developer. I live in a small t
 
 ### My repositories:
 
-- My online resume: [CV](https://github.com/ArpadGBondor/CV)
+- My online resume: 
+    [![ReadMe Card](https://github-readme-stats.arpadgbondor.vercel.app/api/pin/?username=ArpadGBondor&repo=CV&theme=radical)](https://github.com/ArpadGBondor/CV)
 - The App Brewery - Web Development Bootcamp (2020)
   - Front-end projects:
     - [01 - Tindog](https://github.com/ArpadGBondor/The_App_Brewery-Front-end_project_01-Tindog)
