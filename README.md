@@ -46,6 +46,8 @@ My name is Gabriel, and I am a Hungarian software developer. I live in a small t
       [![Repo Card](https://github-readme-stats.arpadgbondor.vercel.app/api/pin/?username=ArpadGBondor&repo=The_App_Brewery-Back-end_project_04-To_Do_List&theme=radical)](https://github.com/ArpadGBondor/The_App_Brewery-Back-end_project_04-To_Do_List)
     - Project 05: Blog website  
       [![Repo Card](https://github-readme-stats.arpadgbondor.vercel.app/api/pin/?username=ArpadGBondor&repo=The_App_Brewery-Back-end_project_05-Blog_website&theme=radical)](https://github.com/ArpadGBondor/The_App_Brewery-Back-end_project_05-Blog_website)
+    - Project 06: Secrets  
+      [![Repo Card](https://github-readme-stats.arpadgbondor.vercel.app/api/pin/?username=ArpadGBondor&repo=The_App_Brewery-Back-end_project_06-Secrets&theme=radical)](https://github.com/ArpadGBondor/The_App_Brewery-Back-end_project_06-Secrets)
 - ### Frontend Mentor (2020)
   - Social Proof Section  
     [![Repo Card](https://github-readme-stats.arpadgbondor.vercel.app/api/pin/?username=ArpadGBondor&repo=Web_challenge_1-Frontend_Mentor-Social_proof_section&theme=radical)](https://github.com/ArpadGBondor/Web_challenge_1-Frontend_Mentor-Social_proof_section)
