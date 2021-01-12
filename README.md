@@ -25,6 +25,9 @@ My name is Gabriel, and I am a Hungarian software developer. I live in a small t
 
 - ### My online resume:  
     [![Repo Card](https://github-readme-stats.arpadgbondor.vercel.app/api/pin/?username=ArpadGBondor&repo=CV&theme=radical)](https://github.com/ArpadGBondor/CV)
+- ### 50 Projects In 50 Days (2021)
+  - Project 01: Expanding Cards  
+    [![Repo Card](https://github-readme-stats.arpadgbondor.vercel.app/api/pin/?username=ArpadGBondor&repo=50_Projects_In_50_Days-01_Expanding_Cards&theme=radical)](https://github.com/ArpadGBondor/50_Projects_In_50_Days-01_Expanding_Cards)
 - ### The App Brewery - Web Development Bootcamp (2020)
   - #### Front-end projects:
     - Project 01: Tindog  
