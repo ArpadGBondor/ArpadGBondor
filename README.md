@@ -30,6 +30,8 @@ My name is Gabriel, and I am a Hungarian software developer. I live in a small t
     [![Repo Card](https://github-readme-stats.arpadgbondor.vercel.app/api/pin/?username=ArpadGBondor&repo=50_Projects_In_50_Days-01_Expanding_Cards&theme=radical)](https://github.com/ArpadGBondor/50_Projects_In_50_Days-01_Expanding_Cards)
   - Day 2: Progress Steps  
     [![Repo Card](https://github-readme-stats.arpadgbondor.vercel.app/api/pin/?username=ArpadGBondor&repo=50_Projects_In_50_Days-02_Progress_Steps&theme=radical)](https://github.com/ArpadGBondor/50_Projects_In_50_Days-02_Progress_Steps)
+  - Day 3: Rotating Navigation  
+    [![Repo Card](https://github-readme-stats.arpadgbondor.vercel.app/api/pin/?username=ArpadGBondor&repo=50_Projects_In_50_Days-03_Rotating_Navigation&theme=radical)](https://github.com/ArpadGBondor/50_Projects_In_50_Days-03_Rotating_Navigation)
 - ### The App Brewery - Web Development Bootcamp (2020)
   - #### Front-end projects:
     - Project 01: Tindog  
