@@ -23,13 +23,13 @@ My name is Gabriel, and I am a Hungarian software developer. I live in a small t
 
 ## My repositories:
 - ### Content:
-  - #### [My online resume](#my-online-resume)  
-  - #### [50 Projects In 50 Days (2021)](#50-projects-in-50-days-2021)
-  - #### [The App Brewery - Web Development Bootcamp (2020)](#the-app-brewery---web-development-bootcamp-2020)
-    - ##### [Front-end projects](#front-end-projects)
-    - ##### [Back-end projects](#back-end-projects)
-  - #### [Frontend Mentor (2020)](#frontend-mentor-2020)
-  - #### [C# projects (2017)](#c-projects-2017)
+  - [My online resume](#my-online-resume)  
+  - [50 Projects In 50 Days (2021)](#50-projects-in-50-days-2021)
+  - [The App Brewery - Web Development Bootcamp (2020)](#the-app-brewery---web-development-bootcamp-2020)
+    - [Front-end projects](#front-end-projects)
+    - [Back-end projects](#back-end-projects)
+  - [Frontend Mentor (2020)](#frontend-mentor-2020)
+  - [C# projects (2017)](#c-projects-2017)
 - ### My online resume:  
     [![Repo Card](https://github-readme-stats.arpadgbondor.vercel.app/api/pin/?username=ArpadGBondor&repo=CV&theme=radical)](https://github.com/ArpadGBondor/CV)
 - ### 50 Projects In 50 Days (2021)
