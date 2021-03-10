@@ -28,6 +28,7 @@ My name is Gabriel, and I am a Hungarian software developer. I live in a small t
 | My Portfolio site                             | [Portfolio](https://github.com/ArpadGBondor/Portfolio)                                                                                              | [Deployed on Heroku](https://gabriel-bondor.herokuapp.com/)                                                                                                                                |
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #1 Simply Square](https://github.com/ArpadGBondor/CSSBattle-1) | [Demo](https://arpadgbondor.github.io/CSSBattle-1/)|
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #15 Overlap](https://github.com/ArpadGBondor/CSSBattle-15) | [Demo](https://arpadgbondor.github.io/CSSBattle-15/)|
+| [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #16 Eye of the Tiger](https://github.com/ArpadGBondor/CSSBattle-16) | [Demo](https://arpadgbondor.github.io/CSSBattle-16/)|
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #18 Matrix](https://github.com/ArpadGBondor/CSSBattle-18) | [Demo](https://arpadgbondor.github.io/CSSBattle-18/)|
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #29 Suffocate](https://github.com/ArpadGBondor/CSSBattle-29) | [Demo](https://arpadgbondor.github.io/CSSBattle-29/)|
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #43 Wrench](https://github.com/ArpadGBondor/CSSBattle-43) | [Demo](https://arpadgbondor.github.io/CSSBattle-43/)|
