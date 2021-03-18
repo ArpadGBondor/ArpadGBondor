@@ -40,6 +40,7 @@ My name is Gabriel, and I am a Hungarian software developer. I live in a small t
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #55 Windmill](https://github.com/ArpadGBondor/CSSBattle-55) | [Demo](https://arpadgbondor.github.io/CSSBattle-55/)|
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #57 Pillars](https://github.com/ArpadGBondor/CSSBattle-57) | [Demo](https://arpadgbondor.github.io/CSSBattle-57/)|
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #59 Earth](https://github.com/ArpadGBondor/CSSBattle-59) | [Demo](https://arpadgbondor.github.io/CSSBattle-59/)|
+| [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #60 Evil Triangles](https://github.com/ArpadGBondor/CSSBattle-60) | [Demo](https://arpadgbondor.github.io/CSSBattle-60/)|
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #61 ImprovMX](https://github.com/ArpadGBondor/CSSBattle-61) | [Demo](https://arpadgbondor.github.io/CSSBattle-61/)|
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #62 Sunset](https://github.com/ArpadGBondor/CSSBattle-62) | [Demo](https://arpadgbondor.github.io/CSSBattle-62/)|
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #63 Command Key](https://github.com/ArpadGBondor/CSSBattle-63) | [Demo](https://arpadgbondor.github.io/CSSBattle-63/)|
