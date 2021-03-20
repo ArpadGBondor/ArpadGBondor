@@ -31,6 +31,7 @@ My name is Gabriel, and I am a Hungarian software developer. I live in a small t
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #3 Push Button](https://github.com/ArpadGBondor/CSSBattle-3) | [Demo](https://arpadgbondor.github.io/CSSBattle-3/)|
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #6 Missing Slice](https://github.com/ArpadGBondor/CSSBattle-6) | [Demo](https://arpadgbondor.github.io/CSSBattle-6/)|
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #9 Tesseract](https://github.com/ArpadGBondor/CSSBattle-9) | [Demo](https://arpadgbondor.github.io/CSSBattle-9/)|
+| [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #13 Totally Triangle](https://github.com/ArpadGBondor/CSSBattle-13) | [Demo](https://arpadgbondor.github.io/CSSBattle-13/)|
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #15 Overlap](https://github.com/ArpadGBondor/CSSBattle-15) | [Demo](https://arpadgbondor.github.io/CSSBattle-15/)|
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #16 Eye of the Tiger](https://github.com/ArpadGBondor/CSSBattle-16) | [Demo](https://arpadgbondor.github.io/CSSBattle-16/)|
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #18 Matrix](https://github.com/ArpadGBondor/CSSBattle-18) | [Demo](https://arpadgbondor.github.io/CSSBattle-18/)|
