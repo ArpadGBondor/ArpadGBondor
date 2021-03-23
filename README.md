@@ -35,6 +35,7 @@ My name is Gabriel, and I am a Hungarian software developer. I live in a small t
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #13 Totally Triangle](https://github.com/ArpadGBondor/CSSBattle-13) | [Demo](https://arpadgbondor.github.io/CSSBattle-13/)|
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #15 Overlap](https://github.com/ArpadGBondor/CSSBattle-15) | [Demo](https://arpadgbondor.github.io/CSSBattle-15/)|
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #16 Eye of the Tiger](https://github.com/ArpadGBondor/CSSBattle-16) | [Demo](https://arpadgbondor.github.io/CSSBattle-16/)|
+| [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #17 Fidget Spinner](https://github.com/ArpadGBondor/CSSBattle-17) | [Demo](https://arpadgbondor.github.io/CSSBattle-17/)|
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #18 Matrix](https://github.com/ArpadGBondor/CSSBattle-18) | [Demo](https://arpadgbondor.github.io/CSSBattle-18/)|
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #19 Cube](https://github.com/ArpadGBondor/CSSBattle-19) | [Demo](https://arpadgbondor.github.io/CSSBattle-19/)|
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #21 SitePoint Logo](https://github.com/ArpadGBondor/CSSBattle-21) | [Demo](https://arpadgbondor.github.io/CSSBattle-21/)|
