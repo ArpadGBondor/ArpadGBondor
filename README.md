@@ -41,6 +41,7 @@ My name is Gabriel, and I am a Hungarian software developer. I live in a small t
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #21 SitePoint Logo](https://github.com/ArpadGBondor/CSSBattle-21) | [Demo](https://arpadgbondor.github.io/CSSBattle-21/)|
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #22 Cloud](https://github.com/ArpadGBondor/CSSBattle-22) | [Demo](https://arpadgbondor.github.io/CSSBattle-22/)|
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #29 Suffocate](https://github.com/ArpadGBondor/CSSBattle-29) | [Demo](https://arpadgbondor.github.io/CSSBattle-29/)|
+| [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #30 Horizon](https://github.com/ArpadGBondor/CSSBattle-30) | [Demo](https://arpadgbondor.github.io/CSSBattle-30/)|
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #32 Band-aid](https://github.com/ArpadGBondor/CSSBattle-32) | [Demo](https://arpadgbondor.github.io/CSSBattle-32/)|
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #34 Christmas Tree](https://github.com/ArpadGBondor/CSSBattle-34) | [Demo](https://arpadgbondor.github.io/CSSBattle-34/)|
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #43 Wrench](https://github.com/ArpadGBondor/CSSBattle-43) | [Demo](https://arpadgbondor.github.io/CSSBattle-43/)|
