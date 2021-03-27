@@ -61,6 +61,7 @@ My name is Gabriel, and I am a Hungarian software developer. I live in a small t
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #63 Command Key](https://github.com/ArpadGBondor/CSSBattle-63) | [Demo](https://arpadgbondor.github.io/CSSBattle-63/)|
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #65 Max Volume](https://github.com/ArpadGBondor/CSSBattle-65) | [Demo](https://arpadgbondor.github.io/CSSBattle-65/)|
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #66 Batmicky](https://github.com/ArpadGBondor/CSSBattle-66) | [Demo](https://arpadgbondor.github.io/CSSBattle-66/)|
+| [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #67 Video Reel](https://github.com/ArpadGBondor/CSSBattle-67) | [Demo](https://arpadgbondor.github.io/CSSBattle-67/)|
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #70 Froggy](https://github.com/ArpadGBondor/CSSBattle-70) | [Demo](https://arpadgbondor.github.io/CSSBattle-70/)|
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #72 Sheep](https://github.com/ArpadGBondor/CSSBattle-72) | [Demo](https://arpadgbondor.github.io/CSSBattle-72/)|
 | [Colt Steele - The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp) (2021) | [Front-end project 01 - Pricing Panel](https://github.com/ArpadGBondor/Colt_Steele_Web-Bootcamp_-_Front-end_project_01_-_Pricing_Panel) | [Live Demo](https://arpadgbondor.github.io/Colt_Steele_Web-Bootcamp_-_Front-end_project_01_-_Pricing_Panel/) | 
