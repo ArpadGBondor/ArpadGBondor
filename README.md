@@ -61,6 +61,7 @@ My name is Gabriel, and I am a Hungarian software developer. I live in a small t
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #49 Stay at Home](https://github.com/ArpadGBondor/CSSBattle-49) | [Demo](https://arpadgbondor.github.io/CSSBattle-49/)|
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #50 Use Hand Sanitizer](https://github.com/ArpadGBondor/CSSBattle-50) | [Demo](https://arpadgbondor.github.io/CSSBattle-50/)|
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #51 Wear a Mask](https://github.com/ArpadGBondor/CSSBattle-51) | [Demo](https://arpadgbondor.github.io/CSSBattle-51/)|
+| [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #52 Break the Chain](https://github.com/ArpadGBondor/CSSBattle-52) | [Demo](https://arpadgbondor.github.io/CSSBattle-52/)|
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #53 Pastel Logo](https://github.com/ArpadGBondor/CSSBattle-53) | [Demo](https://arpadgbondor.github.io/CSSBattle-53/)|
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #54 Black Lives Matter](https://github.com/ArpadGBondor/CSSBattle-54) | [Demo](https://arpadgbondor.github.io/CSSBattle-54/)|
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #55 Windmill](https://github.com/ArpadGBondor/CSSBattle-55) | [Demo](https://arpadgbondor.github.io/CSSBattle-55/)|
