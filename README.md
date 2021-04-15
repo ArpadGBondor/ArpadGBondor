@@ -75,6 +75,7 @@ My name is Gabriel, and I am a Hungarian software developer. I live in a small t
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #65 Max Volume](https://github.com/ArpadGBondor/CSSBattle-65) | [Demo](https://arpadgbondor.github.io/CSSBattle-65/)|
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #66 Batmicky](https://github.com/ArpadGBondor/CSSBattle-66) | [Demo](https://arpadgbondor.github.io/CSSBattle-66/)|
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #67 Video Reel](https://github.com/ArpadGBondor/CSSBattle-67) | [Demo](https://arpadgbondor.github.io/CSSBattle-67/)|
+| [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #68 Bell](https://github.com/ArpadGBondor/CSSBattle-68) | [Demo](https://arpadgbondor.github.io/CSSBattle-68/)|
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #69 PushOwl](https://github.com/ArpadGBondor/CSSBattle-69) | [Demo](https://arpadgbondor.github.io/CSSBattle-69/)|
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #70 Froggy](https://github.com/ArpadGBondor/CSSBattle-70) | [Demo](https://arpadgbondor.github.io/CSSBattle-70/)|
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #71 Elephant](https://github.com/ArpadGBondor/CSSBattle-71) | [Demo](https://arpadgbondor.github.io/CSSBattle-71/)|
