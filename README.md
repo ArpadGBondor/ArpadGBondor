@@ -57,6 +57,7 @@ My name is Gabriel, and I am a Hungarian software developer. I live in a small t
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #44 Stripes](https://github.com/ArpadGBondor/CSSBattle-44) | [Demo](https://arpadgbondor.github.io/CSSBattle-44/)|
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #45 Magical Tree](https://github.com/ArpadGBondor/CSSBattle-45) | [Demo](https://arpadgbondor.github.io/CSSBattle-45/)|
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #46 Mountains](https://github.com/ArpadGBondor/CSSBattle-46) | [Demo](https://arpadgbondor.github.io/CSSBattle-46/)|
+| [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #47 Corona Virus](https://github.com/ArpadGBondor/CSSBattle-47) | [Demo](https://arpadgbondor.github.io/CSSBattle-47/)|
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #48 Wash Your Hands](https://github.com/ArpadGBondor/CSSBattle-48) | [Demo](https://arpadgbondor.github.io/CSSBattle-48/)|
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #49 Stay at Home](https://github.com/ArpadGBondor/CSSBattle-49) | [Demo](https://arpadgbondor.github.io/CSSBattle-49/)|
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #50 Use Hand Sanitizer](https://github.com/ArpadGBondor/CSSBattle-50) | [Demo](https://arpadgbondor.github.io/CSSBattle-50/)|
