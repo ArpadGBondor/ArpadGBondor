@@ -33,6 +33,7 @@ My name is Gabriel, and I am a Hungarian software developer. I live in a small t
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #5 Acid Rain](https://github.com/ArpadGBondor/CSSBattle-5) | [Demo](https://arpadgbondor.github.io/CSSBattle-5/)|
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #6 Missing Slice](https://github.com/ArpadGBondor/CSSBattle-6) | [Demo](https://arpadgbondor.github.io/CSSBattle-6/)|
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #7 Leafy Trail](https://github.com/ArpadGBondor/CSSBattle-7) | [Demo](https://arpadgbondor.github.io/CSSBattle-7/)|
+| [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #8 Forking Crazy](https://github.com/ArpadGBondor/CSSBattle-8) | [Demo](https://arpadgbondor.github.io/CSSBattle-8/)|
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #9 Tesseract](https://github.com/ArpadGBondor/CSSBattle-9) | [Demo](https://arpadgbondor.github.io/CSSBattle-9/)|
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #13 Totally Triangle](https://github.com/ArpadGBondor/CSSBattle-13) | [Demo](https://arpadgbondor.github.io/CSSBattle-13/)|
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #15 Overlap](https://github.com/ArpadGBondor/CSSBattle-15) | [Demo](https://arpadgbondor.github.io/CSSBattle-15/)|
