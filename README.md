@@ -35,6 +35,7 @@ My name is Gabriel, and I am a Hungarian software developer. I live in a small t
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #7 Leafy Trail](https://github.com/ArpadGBondor/CSSBattle-7) | [Demo](https://arpadgbondor.github.io/CSSBattle-7/)|
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #8 Forking Crazy](https://github.com/ArpadGBondor/CSSBattle-8) | [Demo](https://arpadgbondor.github.io/CSSBattle-8/)|
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #9 Tesseract](https://github.com/ArpadGBondor/CSSBattle-9) | [Demo](https://arpadgbondor.github.io/CSSBattle-9/)|
+| [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #10 Cloaked Spirits](https://github.com/ArpadGBondor/CSSBattle-10) | [Demo](https://arpadgbondor.github.io/CSSBattle-10/)|
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #13 Totally Triangle](https://github.com/ArpadGBondor/CSSBattle-13) | [Demo](https://arpadgbondor.github.io/CSSBattle-13/)|
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #15 Overlap](https://github.com/ArpadGBondor/CSSBattle-15) | [Demo](https://arpadgbondor.github.io/CSSBattle-15/)|
 | [CSS Battle](https://cssbattle.dev/) (2021) | [CSS Battle - #16 Eye of the Tiger](https://github.com/ArpadGBondor/CSSBattle-16) | [Demo](https://arpadgbondor.github.io/CSSBattle-16/)|
