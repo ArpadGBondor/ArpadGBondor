@@ -23,7 +23,7 @@ My name is Gabriel, and I am a Hungarian software developer. I live in a small t
 
 ## My repositories:
 <details>
-  <summary><strong><big><a href="https://www.frontendmentor.io/">Frontend Mentor</a> (2020 - 2021)</big></strong></summary>
+  <summary><strong><a href="https://www.frontendmentor.io/">Frontend Mentor</a> (2020 - 2021)</strong></summary>
   <br />
   <table>
     <tr>
@@ -58,7 +58,8 @@ My name is Gabriel, and I am a Hungarian software developer. I live in a small t
 </details>
 
 <details>
-  <summary><a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/">Dr. Angela Yu - Web Development Bootcamp</a> (2020 - 2021) (Complete)</summary>
+  <summary><strong><a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/">Dr. Angela Yu - Web Development Bootcamp</a> (2020 - 2021) (Complete)</strong></summary>
+  <br />
   <table>
     <tr>
       <th>Repository</th>
@@ -112,7 +113,8 @@ My name is Gabriel, and I am a Hungarian software developer. I live in a small t
 </details>
 
 <details>
-  <summary>C# projects (2017)</summary>
+  <summary><strong>C# projects (2017)</strong></summary>
+  <br />
   <table>
     <tr>
       <th>Repository</th>
