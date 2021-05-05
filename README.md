@@ -22,6 +22,41 @@ My name is Gabriel, and I am a Hungarian software developer. I live in a small t
 -----
 
 ## My repositories:
+
+<details>
+  <summary><a href="https://www.frontendmentor.io/">Frontend Mentor</a> 2020 - 2021</summary>
+  <table>
+    <tr>
+      <th>Repository</th>
+      <th>Deployed</th>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/Web_challenge_1-Frontend_Mentor-Social_proof_section">Social Proof Section</a> (2020)</td>
+      <td><a href="https://arpadgbondor.github.io/Web_challenge_1-Frontend_Mentor-Social_proof_section/">Live Demo</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/Web_challenge_2-Frontend_Mentor-Single-price-grid-component">Single Price Grid Component</a> (2020)</td>
+      <td><a href="https://arpadgbondor.github.io/Web_challenge_2-Frontend_Mentor-Single-price-grid-component/">Live Demo</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/Web_challenge_3-Frontend_Mentor-Huddle_landing_page_with_curved_sections">Huddle landing page with curved sections</a> (2020)</td>
+      <td><a href="https://arpadgbondor.github.io/Web_challenge_3-Frontend_Mentor-Huddle_landing_page_with_curved_sections/">Live Demo</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/Web_challenge_4-Frontend_Mentor-Stats_preview_card_component">Stats preview card component</a> (2021)</td>
+      <td><a href="https://arpadgbondor.github.io/Web_challenge_4-Frontend_Mentor-Stats_preview_card_component/">Live Demo</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/Web_challenge_5-Frontend_Mentor-3-column_preview_card_component">3-column preview card component</a> (2021)</td>
+      <td><a href="https://arpadgbondor.github.io/Web_challenge_5-Frontend_Mentor-3-column_preview_card_component/">Live Demo</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/Web_challenge_6-Frontend_Mentor-Profile_card_component">Profile card component</a> (2021)</td>
+      <td><a href="https://arpadgbondor.github.io/Web_challenge_6-Frontend_Mentor-Profile_card_component/">Live Demo</a></td>
+    </tr>
+  </table>  
+</details>
+
 |  Project / Course                                         | Repository                                                                                                                                                                                                                                              | Deployed                                                                                                                                                                                                                                                                       |
 | ------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | My online resume                              | [CV](https://github.com/ArpadGBondor/CV)                                                                                                            | [CV](https://arpadgbondor.github.io/CV/)                                                                                                                                                    |
