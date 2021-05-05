@@ -39,7 +39,7 @@ My name is Gabriel, and I am a Hungarian software developer. I live in a small t
 </table>
 
 <details>
-  <summary><strong><a href="https://www.frontendmentor.io/">Frontend Mentor</a> Challenges (2020 - 2021)</strong></summary>
+  <summary><strong>Challenges: <a href="https://www.frontendmentor.io/">Frontend Mentor</a> (2020 - 2021)</strong></summary>
   <br />
   <table>
     <tr>
@@ -74,7 +74,7 @@ My name is Gabriel, and I am a Hungarian software developer. I live in a small t
 </details>
 
 <details>
-  <summary><strong><a href="https://www.udemy.com/course/serverless-functions-with-netlify/" rel="nofollow">John Smilga - Serverless Functions with Netlify</a> (2021)</strong></summary>
+  <summary><strong>Udemy course: <a href="https://www.udemy.com/course/serverless-functions-with-netlify/" rel="nofollow">John Smilga - Serverless Functions with Netlify</a> (2021)</strong></summary>
   <br />
   <table>
     <tr>
@@ -89,7 +89,7 @@ My name is Gabriel, and I am a Hungarian software developer. I live in a small t
 </details>
 
 <details>
-  <summary><strong><a href="https://www.udemy.com/course/the-web-developer-bootcamp" rel="nofollow">Colt Steele - The Web Developer Bootcamp</a> (2021)</strong></summary>
+  <summary><strong>Udemy course: <a href="https://www.udemy.com/course/the-web-developer-bootcamp" rel="nofollow">Colt Steele - The Web Developer Bootcamp</a> (2021)</strong></summary>
   <br />
   <table>
     <tr>
@@ -108,7 +108,7 @@ My name is Gabriel, and I am a Hungarian software developer. I live in a small t
 </details>
 
 <details>
-  <summary><strong><a href="https://cssbattle.dev/" rel="nofollow">CSS Battle</a> Challenges (2021)</strong></summary>
+  <summary><strong>Challenges: <a href="https://cssbattle.dev/" rel="nofollow">CSS Battle</a> (2021)</strong></summary>
   <br />
   <table>
     <tr>
@@ -411,7 +411,7 @@ My name is Gabriel, and I am a Hungarian software developer. I live in a small t
 </details>
 
 <details>
-  <summary><strong><a href="https://www.udemy.com/course/50-projects-50-days/" rel="nofollow">Brad Traversy - 50 Projects In 50 Days</a> (2021) (Complete)</strong></summary>
+  <summary><strong>Udemy course: <a href="https://www.udemy.com/course/50-projects-50-days/" rel="nofollow">Brad Traversy - 50 Projects In 50 Days</a> (2021) (Complete)</strong></summary>
   <br />
   <table>
     <tr>
@@ -622,7 +622,7 @@ My name is Gabriel, and I am a Hungarian software developer. I live in a small t
 </details>
 
 <details>
-  <summary><strong><a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/">Dr. Angela Yu - Web Development Bootcamp</a> (2020 - 2021) (Complete)</strong></summary>
+  <summary><strong>Udemy course: <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/">Dr. Angela Yu - Web Development Bootcamp</a> (2020 - 2021) (Complete)</strong></summary>
   <br />
   <table>
     <tr>
