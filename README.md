@@ -58,11 +58,78 @@ My name is Gabriel, and I am a Hungarian software developer. I live in a small t
 </details>
 
 <details>
+  <summary><a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/">Dr. Angela Yu - Web Development Bootcamp</a> (2020 - 2021) (Complete)</summary>
+  <table>
+    <tr>
+      <th>Repository</th>
+      <th>Deployed</th>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/The_App_Brewery-Front-end_project_01-Tindog">Front-end 01: Tindog</a> (2020)</td>
+      <td><a href="https://arpadgbondor.github.io/The_App_Brewery-Front-end_project_01-Tindog/">Live Demo</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/The_App_Brewery-Front-end_project_02-Dice_Game">Front-end 02: Dice Game</a> (2020)</td>
+      <td><a href="https://arpadgbondor.github.io/The_App_Brewery-Front-end_project_02-Dice_Game/">Live Demo</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/The_App_Brewery-Front-end_project_03-Drum_kit">Front-end 03: Drum kit</a> (2020)</td>
+      <td><a href="https://arpadgbondor.github.io/The_App_Brewery-Front-end_project_03-Drum_kit/">Live Demo</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/The_App_Brewery-Front-end_project_04-The_Simon_Game">Front-end 04: The Simon Game</a> (2020)</td>
+      <td><a href="https://arpadgbondor.github.io/The_App_Brewery-Front-end_project_04-The_Simon_Game/">Live Demo</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/The_App_Brewery-Front-end_project_05-REACT-Keeper">Front-end 05: React.js - Keeper App</a> (2021)</td>
+      <td><a href="https://arpadgbondor.github.io/The_App_Brewery-Front-end_project_05-REACT-Keeper/">Live Demo</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/The_App_Brewery-Back-end_project_01-BMI_calculator">Back-end 01: BMI calculator</a> (2020)</td>
+      <td> - Not deployed - </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/The_App_Brewery-Back-end_project_02-Weather_API">Back-end 02: Weather API</a> (2020)</td>
+      <td> - Not deployed - </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/The_App_Brewery-Back-end_project_03-Newsletter_Signup">Back-end 03: Newsletter Signup</a> (2020)</td>
+      <td><a href="https://gabriel-newsletter-signup.herokuapp.com/">Deployed on Heroku</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/The_App_Brewery-Back-end_project_04-To_Do_List">Back-end 04: To Do List</a> (2020)</td>
+      <td><a href="https://gabriel-to-do-list.herokuapp.com/">Deployed on Heroku</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/The_App_Brewery-Back-end_project_05-Blog_website">Back-end 05: Blog website</a> (2020)</td>
+      <td><a href="https://gabriel-blog-website.herokuapp.com/">Blog</a> / <a href="https://gabriel-blog-website.herokuapp.com/maintenance">Maintenance</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/The_App_Brewery-Back-end_project_06-Secrets">Back-end 06: Secrets</a> (2020)</td>
+      <td><a href="https://gabriel-secrets.herokuapp.com/">Deployed on Heroku</a></td>
+    </tr>
+  </table>  
+</details>
+
+<details>
   <summary>C# projects (2017)</summary>
-  <p><a href="https://github.com/ArpadGBondor/Red-Inventory-Management">Red's Inventory Management</a> (2017)</p>
-  <p><a href="https://github.com/ArpadGBondor/Design-pattern-tutorial-projects">Design patterns</a> (2017)</p>
-  <p><a href="https://github.com/ArpadGBondor/WPF-Simple-RPG-tutorial-project">WPF - Simple RPG</a> (2017)</p>
-  <p><a href="https://github.com/ArpadGBondor/WCF-tutorial-projects">WCF - tutorial</a> (2017)</p>
+  <table>
+    <tr>
+      <th>Repository</th>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/Red-Inventory-Management">Red's Inventory Management</a> (2017)</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/Design-pattern-tutorial-projects">Design patterns</a> (2017)</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/WPF-Simple-RPG-tutorial-project">WPF - Simple RPG</a> (2017)</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/WCF-tutorial-projects">WCF - tutorial</a> (2017)</td>
+    </tr>
+  </table>  
 </details>
 
 |  Project / Course                                         | Repository                                                                                                                                                                                                                                              | Deployed                                                                                                                                                                                                                                                                       |
