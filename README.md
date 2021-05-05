@@ -24,7 +24,7 @@ My name is Gabriel, and I am a Hungarian software developer. I live in a small t
 ## My repositories:
 
 <details>
-  <summary style="font-size:1.25em;font-weight:700;margin-bottom:0.5em;"><a href="https://www.frontendmentor.io/">Frontend Mentor</a> (2020 - 2021)</summary>
+  <summary><span style="font-size:1.25em;font-weight:700;margin-bottom:0.5em;"><a href="https://www.frontendmentor.io/">Frontend Mentor</a> (2020 - 2021)</span></summary>
   <table>
     <tr>
       <th>Repository</th>
