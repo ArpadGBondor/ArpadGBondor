@@ -24,7 +24,7 @@ My name is Gabriel, and I am a Hungarian software developer. I live in a small t
 ## My repositories:
 
 <details>
-  <summary><a href="https://www.frontendmentor.io/">Frontend Mentor</a> 2020 - 2021</summary>
+  <summary><a href="https://www.frontendmentor.io/">Frontend Mentor</a> (2020 - 2021)</summary>
   <table>
     <tr>
       <th>Repository</th>
@@ -55,6 +55,14 @@ My name is Gabriel, and I am a Hungarian software developer. I live in a small t
       <td><a href="https://arpadgbondor.github.io/Web_challenge_6-Frontend_Mentor-Profile_card_component/">Live Demo</a></td>
     </tr>
   </table>  
+</details>
+
+<details>
+  <summary>C# projects (2017)</summary>
+  <p><a href="https://github.com/ArpadGBondor/Red-Inventory-Management">Red's Inventory Management</a> (2017)</p>
+  <p><a href="https://github.com/ArpadGBondor/Design-pattern-tutorial-projects">Design patterns</a> (2017)</p>
+  <p><a href="https://github.com/ArpadGBondor/WPF-Simple-RPG-tutorial-project">WPF - Simple RPG</a> (2017)</p>
+  <p><a href="https://github.com/ArpadGBondor/WCF-tutorial-projects">WCF - tutorial</a> (2017)</p>
 </details>
 
 |  Project / Course                                         | Repository                                                                                                                                                                                                                                              | Deployed                                                                                                                                                                                                                                                                       |
