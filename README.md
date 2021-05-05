@@ -30,7 +30,7 @@ My name is Gabriel, and I am a Hungarian software developer. I live in a small t
   </tr>
   <tr>
     <td><a href="https://github.com/ArpadGBondor/CV">My online resume</a></td>
-    <td><a href="https://arpadgbondor.github.io/CV/" rel="nofollow">CV</a></td>
+    <td><a href="https://arpadgbondor.github.io/CV/" rel="nofollow">Deployed on GitHub Pages</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/ArpadGBondor/Portfolio">My Portfolio site</a></td>
@@ -39,7 +39,7 @@ My name is Gabriel, and I am a Hungarian software developer. I live in a small t
 </table>
 
 <details>
-  <summary><strong><a href="https://www.frontendmentor.io/">Frontend Mentor</a> (2020 - 2021)</strong></summary>
+  <summary><strong><a href="https://www.frontendmentor.io/">Frontend Mentor</a> Challenges (2020 - 2021)</strong></summary>
   <br />
   <table>
     <tr>
@@ -108,7 +108,7 @@ My name is Gabriel, and I am a Hungarian software developer. I live in a small t
 </details>
 
 <details>
-  <summary><strong><a href="https://cssbattle.dev/" rel="nofollow">CSS Battle</a> (2021)</strong></summary>
+  <summary><strong><a href="https://cssbattle.dev/" rel="nofollow">CSS Battle</a> Challenges (2021)</strong></summary>
   <br />
   <table>
     <tr>
@@ -411,7 +411,7 @@ My name is Gabriel, and I am a Hungarian software developer. I live in a small t
 </details>
 
 <details>
-  <summary><strong><a href="https://www.udemy.com/course/50-projects-50-days/" rel="nofollow">Brad Traversy - 50 Projects In 50 Days</a> (2021)</strong></summary>
+  <summary><strong><a href="https://www.udemy.com/course/50-projects-50-days/" rel="nofollow">Brad Traversy - 50 Projects In 50 Days</a> (2021) (Complete)</strong></summary>
   <br />
   <table>
     <tr>
