@@ -74,25 +74,6 @@ My name is Gabriel, and I am a Hungarian software developer. I live in a small t
 </details>
 
 <details>
-  <summary><strong>Udemy course: <a href="https://www.udemy.com/course/serverless-functions-with-netlify/" rel="nofollow">John Smilga - Serverless Functions with Netlify</a> (2021)</strong></summary>
-  <br />
-  <table>
-    <tr>
-      <th>Repository</th>
-      <th>Deployed</th>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/ArpadGBondor/John_Smilga-Serverless_Functions_with_Netlify">Serverless Functions with Netlify</a></td>
-      <td><a href="https://gabriels-first-serverless-functions.netlify.app/" rel="nofollow">Deployed on Netlify</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/ArpadGBondor/John_Smilga-Serverless_Functions-React">Serverless Functions and React</a></td>
-      <td><a href="https://gabriels-first-serverless-react-app.netlify.app/" rel="nofollow">Deployed on Netlify</a></td>
-    </tr>
-  </table>  
-</details>
-
-<details>
   <summary><strong>Udemy course: <a href="https://www.udemy.com/course/the-web-developer-bootcamp" rel="nofollow">Colt Steele - The Web Developer Bootcamp</a> (2021)</strong></summary>
   <br />
   <table>
@@ -107,6 +88,25 @@ My name is Gabriel, and I am a Hungarian software developer. I live in a small t
     <tr>
       <td><a href="https://github.com/ArpadGBondor/Colt_Steele_Web-Bootcamp_-_Front-end_project_02_-_Museum_of_Candy">Front-end project 02 - Museum of Candy</a></td>
       <td><a href="https://arpadgbondor.github.io/Colt_Steele_Web-Bootcamp_-_Front-end_project_02_-_Museum_of_Candy/" rel="nofollow">Deployed on GitHub Pages</a></td>
+    </tr>
+  </table>  
+</details>
+
+<details>
+  <summary><strong>Udemy course: <a href="https://www.udemy.com/course/serverless-functions-with-netlify/" rel="nofollow">John Smilga - Serverless Functions with Netlify</a> (2021) (Complete)</strong></summary>
+  <br />
+  <table>
+    <tr>
+      <th>Repository</th>
+      <th>Deployed</th>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/John_Smilga-Serverless_Functions_with_Netlify">Serverless Functions with Netlify</a></td>
+      <td><a href="https://gabriels-first-serverless-functions.netlify.app/" rel="nofollow">Deployed on Netlify</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/John_Smilga-Serverless_Functions-React">Serverless Functions and React</a></td>
+      <td><a href="https://gabriels-first-serverless-react-app.netlify.app/" rel="nofollow">Deployed on Netlify</a></td>
     </tr>
   </table>  
 </details>
