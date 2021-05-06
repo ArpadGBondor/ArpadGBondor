@@ -85,6 +85,10 @@ My name is Gabriel, and I am a Hungarian software developer. I live in a small t
       <td><a href="https://github.com/ArpadGBondor/John_Smilga-Serverless_Functions_with_Netlify">Serverless Functions with Netlify</a></td>
       <td><a href="https://gabriels-first-serverless-functions.netlify.app/" rel="nofollow">Deployed on Netlify</a></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/John_Smilga-Serverless_Functions-React">Serverless Functions and React</a></td>
+      <td> - Not deployed yet - </td>
+    </tr>
   </table>  
 </details>
 
