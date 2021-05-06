@@ -48,27 +48,27 @@ My name is Gabriel, and I am a Hungarian software developer. I live in a small t
     </tr>
     <tr>
       <td><a href="https://github.com/ArpadGBondor/Web_challenge_1-Frontend_Mentor-Social_proof_section">Social Proof Section</a> (2020)</td>
-      <td><a href="https://arpadgbondor.github.io/Web_challenge_1-Frontend_Mentor-Social_proof_section/">Live Demo</a></td>
+      <td><a href="https://arpadgbondor.github.io/Web_challenge_1-Frontend_Mentor-Social_proof_section/">Deployed on GitHub Pages</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/ArpadGBondor/Web_challenge_2-Frontend_Mentor-Single-price-grid-component">Single Price Grid Component</a> (2020)</td>
-      <td><a href="https://arpadgbondor.github.io/Web_challenge_2-Frontend_Mentor-Single-price-grid-component/">Live Demo</a></td>
+      <td><a href="https://arpadgbondor.github.io/Web_challenge_2-Frontend_Mentor-Single-price-grid-component/">Deployed on GitHub Pages</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/ArpadGBondor/Web_challenge_3-Frontend_Mentor-Huddle_landing_page_with_curved_sections">Huddle landing page with curved sections</a> (2020)</td>
-      <td><a href="https://arpadgbondor.github.io/Web_challenge_3-Frontend_Mentor-Huddle_landing_page_with_curved_sections/">Live Demo</a></td>
+      <td><a href="https://arpadgbondor.github.io/Web_challenge_3-Frontend_Mentor-Huddle_landing_page_with_curved_sections/">Deployed on GitHub Pages</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/ArpadGBondor/Web_challenge_4-Frontend_Mentor-Stats_preview_card_component">Stats preview card component</a> (2021)</td>
-      <td><a href="https://arpadgbondor.github.io/Web_challenge_4-Frontend_Mentor-Stats_preview_card_component/">Live Demo</a></td>
+      <td><a href="https://arpadgbondor.github.io/Web_challenge_4-Frontend_Mentor-Stats_preview_card_component/">Deployed on GitHub Pages</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/ArpadGBondor/Web_challenge_5-Frontend_Mentor-3-column_preview_card_component">3-column preview card component</a> (2021)</td>
-      <td><a href="https://arpadgbondor.github.io/Web_challenge_5-Frontend_Mentor-3-column_preview_card_component/">Live Demo</a></td>
+      <td><a href="https://arpadgbondor.github.io/Web_challenge_5-Frontend_Mentor-3-column_preview_card_component/">Deployed on GitHub Pages</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/ArpadGBondor/Web_challenge_6-Frontend_Mentor-Profile_card_component">Profile card component</a> (2021)</td>
-      <td><a href="https://arpadgbondor.github.io/Web_challenge_6-Frontend_Mentor-Profile_card_component/">Live Demo</a></td>
+      <td><a href="https://arpadgbondor.github.io/Web_challenge_6-Frontend_Mentor-Profile_card_component/">Deployed on GitHub Pages</a></td>
     </tr>
   </table>  
 </details>
@@ -102,11 +102,11 @@ My name is Gabriel, and I am a Hungarian software developer. I live in a small t
     </tr>
     <tr>
       <td><a href="https://github.com/ArpadGBondor/Colt_Steele_Web-Bootcamp_-_Front-end_project_01_-_Pricing_Panel">Front-end project 01 - Pricing Panel</a></td>
-      <td><a href="https://arpadgbondor.github.io/Colt_Steele_Web-Bootcamp_-_Front-end_project_01_-_Pricing_Panel/" rel="nofollow">Live Demo</a></td>
+      <td><a href="https://arpadgbondor.github.io/Colt_Steele_Web-Bootcamp_-_Front-end_project_01_-_Pricing_Panel/" rel="nofollow">Deployed on GitHub Pages</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/ArpadGBondor/Colt_Steele_Web-Bootcamp_-_Front-end_project_02_-_Museum_of_Candy">Front-end project 02 - Museum of Candy</a></td>
-      <td><a href="https://arpadgbondor.github.io/Colt_Steele_Web-Bootcamp_-_Front-end_project_02_-_Museum_of_Candy/" rel="nofollow">Live Demo</a></td>
+      <td><a href="https://arpadgbondor.github.io/Colt_Steele_Web-Bootcamp_-_Front-end_project_02_-_Museum_of_Candy/" rel="nofollow">Deployed on GitHub Pages</a></td>
     </tr>
   </table>  
 </details>
@@ -639,23 +639,23 @@ My name is Gabriel, and I am a Hungarian software developer. I live in a small t
     </tr>
     <tr>
       <td><a href="https://github.com/ArpadGBondor/The_App_Brewery-Front-end_project_01-Tindog">Front-end 01: Tindog</a> (2020)</td>
-      <td><a href="https://arpadgbondor.github.io/The_App_Brewery-Front-end_project_01-Tindog/">Live Demo</a></td>
+      <td><a href="https://arpadgbondor.github.io/The_App_Brewery-Front-end_project_01-Tindog/">Deployed on GitHub Pages</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/ArpadGBondor/The_App_Brewery-Front-end_project_02-Dice_Game">Front-end 02: Dice Game</a> (2020)</td>
-      <td><a href="https://arpadgbondor.github.io/The_App_Brewery-Front-end_project_02-Dice_Game/">Live Demo</a></td>
+      <td><a href="https://arpadgbondor.github.io/The_App_Brewery-Front-end_project_02-Dice_Game/">Deployed on GitHub Pages</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/ArpadGBondor/The_App_Brewery-Front-end_project_03-Drum_kit">Front-end 03: Drum kit</a> (2020)</td>
-      <td><a href="https://arpadgbondor.github.io/The_App_Brewery-Front-end_project_03-Drum_kit/">Live Demo</a></td>
+      <td><a href="https://arpadgbondor.github.io/The_App_Brewery-Front-end_project_03-Drum_kit/">Deployed on GitHub Pages</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/ArpadGBondor/The_App_Brewery-Front-end_project_04-The_Simon_Game">Front-end 04: The Simon Game</a> (2020)</td>
-      <td><a href="https://arpadgbondor.github.io/The_App_Brewery-Front-end_project_04-The_Simon_Game/">Live Demo</a></td>
+      <td><a href="https://arpadgbondor.github.io/The_App_Brewery-Front-end_project_04-The_Simon_Game/">Deployed on GitHub Pages</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/ArpadGBondor/The_App_Brewery-Front-end_project_05-REACT-Keeper">Front-end 05: React.js - Keeper App</a> (2021)</td>
-      <td><a href="https://arpadgbondor.github.io/The_App_Brewery-Front-end_project_05-REACT-Keeper/">Live Demo</a></td>
+      <td><a href="https://arpadgbondor.github.io/The_App_Brewery-Front-end_project_05-REACT-Keeper/">Deployed on GitHub Pages</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/ArpadGBondor/The_App_Brewery-Back-end_project_01-BMI_calculator">Back-end 01: BMI calculator</a> (2020)</td>
