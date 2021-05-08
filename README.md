@@ -2,7 +2,7 @@
 
 My name is Gabriel, and I am a Hungarian software developer. I live in a small town in Scotland, and I'm refreshing my web-development skills now.
 
-- 💂 I'm currently working as a night porter to support myself while I'm studying web-development, and building my portfolio.
+- 💂 I'm currently working as a night porter to support myself while I'm growing my skill set, and building my portfolio.
 - 📚 My current tech stack includes HTML5, CSS3, Bootstrap, JavaScript, NodeJS, Express.js, EJS, SQL, MongoDB, and Serverless Functions.
 - 💻 I’m currently learning React.js
 - 💭 I'm looking forward to take more Udemy courses about React.js, JavaScript algorithms, Testing, Database management, SCSS, and Electron
