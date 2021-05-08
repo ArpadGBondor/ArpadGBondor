@@ -112,7 +112,7 @@ My name is Gabriel, and I am a Hungarian software developer. I live in a small t
 </details>
 
 <details>
-  <summary><strong>Challenges: <a href="https://cssbattle.dev/" rel="nofollow">CSS Battle</a> (2021)</strong></summary>
+  <summary><strong>Challenges: <a href="https://cssbattle.dev/" rel="nofollow">CSS Battle</a> (2021) (Complete)</strong></summary>
   <br />
   <table>
     <tr>
