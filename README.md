@@ -416,6 +416,10 @@ My name is Gabriel, and I am a Hungarian software developer. I live in a small t
       <td><a href="https://arpadgbondor.github.io/CSSBattle-74/" rel="nofollow">Demo</a></td>
     </tr>
     <tr>
+      <td><a href="https://github.com/ArpadGBondor/CSSBattle-75">CSS Battle - #75 Hippo</a></td>
+      <td><a href="https://arpadgbondor.github.io/CSSBattle-75/" rel="nofollow">Demo</a></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/ArpadGBondor/CSSBattle-76">CSS Battle - #76 Beeee</a></td>
       <td><a href="https://arpadgbondor.github.io/CSSBattle-76/" rel="nofollow">Demo</a></td>
     </tr>
