@@ -40,6 +40,21 @@ My name is Gabriel, and I am a Hungarian software developer. I live in a small t
 </table>
 
 <details>
+  <summary><strong>Youtube tutorials: <a href="https://www.youtube.com/channel/UC5DNytAJ6_FISueUfzZCVsw">Code with Ania Kubów</a> (2021)</strong></summary>
+  <br />
+  <table>
+    <tr>
+      <th>Repository</th>
+      <th>Deployed</th>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/Code_with_Ania_Kubow-01-Tetris">01-Tetris</a> (2020)</td>
+      <td><a href="https://arpadgbondor.github.io/Code_with_Ania_Kubow-01-Tetris/">Deployed on GitHub Pages</a></td>
+    </tr>
+  </table>  
+</details>
+
+<details>
   <summary><strong>Challenges: <a href="https://www.frontendmentor.io/">Frontend Mentor</a> (2020 - 2021)</strong></summary>
   <br />
   <table>
