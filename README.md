@@ -66,8 +66,12 @@ My name is Gabriel, and I am a Hungarian software developer. I live in a small t
       <th>Deployed</th>
     </tr>
     <tr>
-      <td><a href="https://github.com/ArpadGBondor/Code_with_Ania_Kubow-01-Tetris">01-Tetris</a> (2021)</td>
+      <td><a href="https://github.com/ArpadGBondor/Code_with_Ania_Kubow-01-Tetris">Tetris</a> (2021)</td>
       <td><a href="https://arpadgbondor.github.io/Code_with_Ania_Kubow-01-Tetris/">Deployed on GitHub Pages</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/Code_with_Ania_Kubow-02-Responsive_Portfolio">Responsive Portfolio</a> (2021)</td>
+      <td><a href="https://arpadgbondor.github.io/Code_with_Ania_Kubow-02-Responsive_Portfolio/">Deployed on GitHub Pages</a></td>
     </tr>
   </table>  
 </details>
