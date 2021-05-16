@@ -50,7 +50,7 @@ My name is Gabriel, and I am a Hungarian software developer. I live in a small t
       <th>Deployed</th>
     </tr>
     <tr>
-      <td><a href="https://github.com/ArpadGBondor/Codewars_Solutions">01-Tetris</a> (2021)</td>
+      <td><a href="https://github.com/ArpadGBondor/Codewars_Solutions">Codewars Solutions</a> (2021)</td>
       <td> - Not deployed - </td>
     </tr>
   </table>  
