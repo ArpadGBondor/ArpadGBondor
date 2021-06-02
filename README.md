@@ -40,7 +40,7 @@
 
 
 <details>
-  <summary><strong>Udemy course: <a href="https://www.udemy.com/course/modern-react-front-to-back/" rel="nofollow">Brad Traversy - React Front To Back</a> (2021)</strong>
+  <summary><strong>Udemy course: <a href="https://www.udemy.com/course/modern-react-front-to-back/" rel="nofollow">Brad Traversy - React Front To Back</a> (2021)</strong></summary>
   <br />
   <table>
     <tr>
@@ -53,6 +53,7 @@
     </tr>
   </table>  
 </details>
+
 
 
 <details>
