@@ -40,6 +40,22 @@
 
 
 <details>
+  <summary><strong>Udemy course: <a href="https://www.udemy.com/course/modern-react-front-to-back/" rel="nofollow">Brad Traversy - React Front To Back</a> (2021)</strong>
+  <br />
+  <table>
+    <tr>
+      <th>Repository</th>
+      <th>Deployed</th>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/Brad_Traversy-React_Front_To_Back-01-GitHub_Finder">01 - GitHub Finder</a> (2021)</td>
+      <td><a href="https://gabriels-react-front-to-back-01-github-finder.netlify.app/">Deployed on Netlify</a></td>
+    </tr>
+  </table>  
+</details>
+
+
+<details>
   <summary><strong>Challenges: <a href="https://www.codewars.com/">Codewars</a> (2021)</strong></summary>
   <br />
   <table>
