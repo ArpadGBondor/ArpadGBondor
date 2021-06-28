@@ -58,7 +58,6 @@
 
 <details>
   <summary><strong>Challenges: <a href="https://www.codewars.com/">Codewars</a> (2021)</strong></summary>
-  <br />
   <a href="https://www.codewars.com/users/ArpadGBondor" rel="nofollow"><img src="https://www.codewars.com/users/ArpadGBondor/badges/large"  alt="Codewars badge"/></a>
   <br />
   Repository: <a href="https://github.com/ArpadGBondor/Codewars_Solutions">Codewars Solutions</a> (2021)
