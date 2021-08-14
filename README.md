@@ -38,6 +38,21 @@
 </table>
 
 
+<details>
+  <summary><strong>Youtube tutorials: <a href="https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA">Brad Traversy - Traversy Media</a> (2021)</strong></summary>
+  <br />
+  <table>
+    <tr>
+      <th>Repository</th>
+      <th>Deployed</th>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/Brad_Traversy-Youtube_tutorials-01-jest_testing_basics">Jest Crash Course</a> (2021)</td>
+      <td> - Not deployed - </td>
+    </tr>
+  </table>  
+</details>
+
 
 <details>
   <summary><strong>Udemy course: <a href="https://www.udemy.com/course/modern-react-front-to-back/" rel="nofollow">Brad Traversy - React Front To Back</a> (2021)</strong></summary>
