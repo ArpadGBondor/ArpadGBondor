@@ -50,6 +50,10 @@
       <td><a href="https://github.com/ArpadGBondor/Brad_Traversy-Youtube_tutorials-01-jest_testing_basics">Jest Crash Course</a> (2021)</td>
       <td> - Not deployed - </td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/Brad_Traversy-Youtube_tutorials-02-React-js-basics">React JS Crash Course</a> (2021)</td>
+      <td><a href="https://gabriels-youtube-tutorial-brad-traversy-react-crash-course.netlify.app/">Deployed on Netlify</a></td>
+    </tr>
   </table>  
 </details>
 
