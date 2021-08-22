@@ -777,4 +777,4 @@
   </table>  
 </details>
 
-[Thank you](./marquee.svg)
+![Thank you](./marquee.svg)
