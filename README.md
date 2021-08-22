@@ -51,8 +51,12 @@
       <td> - Not deployed - </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/ArpadGBondor/Brad_Traversy-Youtube_tutorials-02-React-js-basics">React JS Crash Course</a> (2021)</td>
+      <td><a href="https://github.com/ArpadGBondor/Brad_Traversy-Youtube_tutorials-02-React-js-basics">React.js Crash Course</a> (2021)</td>
       <td><a href="https://gabriels-youtube-tutorial-brad-traversy-react-crash-course.netlify.app/">Deployed on Netlify</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/Brad_Traversy-Youtube_tutorials-03-Next-js-basics">Next.js Crash Course</a> (2021)</td>
+      <td><a href="https://gabriel-tutorials-next-js-crash-course.vercel.app/">Deployed on Vercel</a></td>
     </tr>
   </table>  
 </details>
