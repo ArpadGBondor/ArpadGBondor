@@ -777,4 +777,4 @@
   </table>  
 </details>
 
-![Thank you](./marquee.svg)
+<img height="120" alt="Thanks for visiting my profile" width="100%" src="./marquee.svg" />
