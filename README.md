@@ -37,7 +37,6 @@
   </tr>
 </table>
 
-
 <details>
   <summary><strong>Youtube tutorials: <a href="https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA">Brad Traversy - Traversy Media</a> (2021)</strong></summary>
   <br />
@@ -61,7 +60,6 @@
   </table>  
 </details>
 
-
 <details>
   <summary><strong>Udemy course: <a href="https://www.udemy.com/course/modern-react-front-to-back/" rel="nofollow">Brad Traversy - React Front To Back</a> (2021)</strong></summary>
   <br />
@@ -77,15 +75,12 @@
   </table>  
 </details>
 
-
-
 <details>
   <summary><strong>Challenges: <a href="https://www.codewars.com/">Codewars</a> (2021)</strong></summary>
   <a href="https://www.codewars.com/users/ArpadGBondor" rel="nofollow"><img src="https://www.codewars.com/users/ArpadGBondor/badges/large"  alt="Codewars badge"/></a>
   <br />
   Repository: <a href="https://github.com/ArpadGBondor/Codewars_Solutions">Codewars Solutions</a> (2021)
 </details>
-
 
 <details>
   <summary><strong>Youtube tutorials: <a href="https://www.youtube.com/channel/UC5DNytAJ6_FISueUfzZCVsw">Code with Ania Kubów</a> (2021)</strong></summary>
@@ -781,3 +776,5 @@
     </tr>
   </table>  
 </details>
+
+[Thank you](./marquee.svg)
