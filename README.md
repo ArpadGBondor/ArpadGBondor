@@ -1,4 +1,5 @@
-<img src="https://github-readme-stats.arpadgbondor.vercel.app/api?username=ArpadGBondor&theme=radical&show_icons=true&custom_title=Gabriel%27s%20Github%20Stats" alt="GitHub stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ArpadGBondor&theme=radical" alt="streak stats">
+[![Gabriel's github stats](https://github-readme-stats.arpadgbondor.vercel.app/api?username=ArpadGBondor&theme=radical&show_icons=true&custom_title=Gabriel%27s%20Github%20Stats&&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ArpadGBondor&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
