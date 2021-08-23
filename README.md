@@ -1,5 +1,4 @@
 [![Gabriel's github stats](https://github-readme-stats.arpadgbondor.vercel.app/api?username=ArpadGBondor&theme=radical&show_icons=true&custom_title=Gabriel%27s%20Github%20Stats&&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ArpadGBondor&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
@@ -18,6 +17,10 @@
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArpadGBondor)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/arpad.g.bondor/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpad.g.bondor@gmail.com)
+
+---
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ArpadGBondor&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
