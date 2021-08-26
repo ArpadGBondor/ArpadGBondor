@@ -61,6 +61,10 @@
       <td><a href="https://github.com/ArpadGBondor/Brad_Traversy-Youtube_tutorials-03-Next-js-basics">Next.js Crash Course</a> (2021)</td>
       <td><a href="https://gabriel-tutorials-next-js-crash-course.vercel.app/">Deployed on Vercel</a></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/Brad_Traversy-Youtube_tutorials-04-Vue-js-basics">Vue.js Crash Course</a> (2021)</td>
+      <td><a href="https://gabriels-youtube-tutorial-brad-traversy-vue-crash-course.netlify.app/">Deployed on Netlify</a></td>
+    </tr>
   </table>  
 </details>
 
