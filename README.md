@@ -65,6 +65,10 @@
       <td><a href="https://github.com/ArpadGBondor/Brad_Traversy-Youtube_tutorials-04-Vue-js-basics">Vue.js Crash Course</a> (2021)</td>
       <td><a href="https://gabriels-youtube-tutorial-brad-traversy-vue-crash-course.netlify.app/">Deployed on Netlify</a></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/Brad_Traversy-Youtube_tutorials-05-React-Native-basics">React-Native Crash Course</a> (2021)</td>
+      <td> - Not deployed - </td>
+    </tr>
   </table>  
 </details>
 
