@@ -84,6 +84,10 @@
       <td><a href="https://github.com/ArpadGBondor/Brad_Traversy-React_Front_To_Back-01-GitHub_Finder">01 - GitHub Finder</a> (2021)</td>
       <td><a href="https://gabriels-react-front-to-back-01-github-finder.netlify.app/">Deployed on Netlify</a></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/Brad_Traversy-React_Front_To_Back-02-Contact_keeper">02 - Contact Keeper</a> (2021)</td>
+      <td>Not yet</td>
+    </tr>
   </table>  
 </details>
 
