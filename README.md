@@ -86,7 +86,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/ArpadGBondor/Brad_Traversy-React_Front_To_Back-02-Contact_keeper">02 - Contact Keeper</a> (2021)</td>
-      <td>Not yet</td>
+      <td><a href="https://gabriel-contact-keeper.herokuapp.com/">Deployed on Heroku</a></td>
     </tr>
   </table>  
 </details>
