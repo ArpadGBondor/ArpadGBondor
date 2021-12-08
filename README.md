@@ -73,7 +73,7 @@
 </details>
 
 <details>
-  <summary><strong>Udemy course: <a href="https://www.udemy.com/course/modern-react-front-to-back/" rel="nofollow">Brad Traversy - React Front To Back</a> (2021)</strong></summary>
+  <summary><strong>Udemy course: <a href="https://www.udemy.com/course/modern-react-front-to-back/" rel="nofollow">Brad Traversy - React Front To Back</a> (2021) (Complete)</strong></summary>
   <br />
   <table>
     <tr>
@@ -88,6 +88,10 @@
       <td><a href="https://github.com/ArpadGBondor/Brad_Traversy-React_Front_To_Back-02-Contact_keeper">02 - Contact Keeper</a> (2021)</td>
       <td><a href="https://gabriel-contact-keeper.herokuapp.com/">Deployed on Heroku</a></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/Brad_Traversy-React_Front_To_Back-03-IT_Logger">03 - IT Logger</a> (2021)</td>
+      <td> - Not deployed - </td>
+    </tr>    
   </table>  
 </details>
 
