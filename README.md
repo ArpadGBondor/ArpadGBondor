@@ -42,6 +42,21 @@
 </table>
 
 <details>
+  <summary><strong>Udemy course: <a href="https://www.udemy.com/course/react-front-to-back-2022/" rel="nofollow">Brad Traversy - React Front To Back 2022</a></strong></summary>
+  <br />
+  <table>
+    <tr>
+      <th>Repository</th>
+      <th>Deployed</th>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/Brad_Traversy-React_Front_To_Back_2022-01-Feedback_App">01 - Feedback App</a> (2022)</td>
+      <td> - Not deployed - </td>
+    </tr>    
+  </table>  
+</details>
+
+<details>
   <summary><strong>Youtube tutorials: <a href="https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA">Brad Traversy - Traversy Media</a> (2021)</strong></summary>
   <br />
   <table>
