@@ -51,7 +51,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/ArpadGBondor/Brad_Traversy-React_Front_To_Back_2022-01-Feedback_App">01 - Feedback App</a> (2022)</td>
-      <td> - Not deployed - </td>
+      <td><a href="https://gabriels-react-front-to-back-04-feedback-app.netlify.app/">Deployed on Netlify</a></td>
     </tr>    
   </table>  
 </details>
