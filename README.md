@@ -53,6 +53,10 @@
       <td><a href="https://github.com/ArpadGBondor/Brad_Traversy-React_Front_To_Back_2022-01-Feedback_App">01 - Feedback App</a> (2022)</td>
       <td><a href="https://gabriels-react-front-to-back-04-feedback-app.netlify.app/">Deployed on Netlify</a></td>
     </tr>    
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/Brad_Traversy-React_Front_To_Back_2022-02_Github_Finder">02 - Github Finder</a> (2022)</td>
+      <td><a href="https://gabriels-react-front-to-back-02-github-finder.vercel.app/">Deployed on Vercel</a></td>
+    </tr>    
   </table>  
 </details>
 
