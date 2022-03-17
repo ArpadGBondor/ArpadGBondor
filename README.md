@@ -61,7 +61,7 @@
 </details>
 
 <details>
-  <summary><strong>Youtube tutorials: <a href="https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA">Brad Traversy - Traversy Media</a> (2021)</strong></summary>
+  <summary><strong>Youtube tutorials: <a href="https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA">Brad Traversy - Traversy Media</a> (2021-2022)</strong></summary>
   <br />
   <table>
     <tr>
