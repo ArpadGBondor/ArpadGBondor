@@ -42,7 +42,7 @@
 </table>
 
 <details>
-  <summary><strong>Udemy course: <a href="https://www.udemy.com/course/react-front-to-back-2022/" rel="nofollow">Brad Traversy - React Front To Back 2022</a></strong></summary>
+  <summary><strong>Udemy course: <a href="https://www.udemy.com/course/react-front-to-back-2022/" rel="nofollow">Brad Traversy - React Front To Back 2022</a> (2022)</strong></summary>
   <br />
   <table>
     <tr>
