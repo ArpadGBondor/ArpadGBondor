@@ -57,6 +57,14 @@
       <td><a href="https://github.com/ArpadGBondor/Brad_Traversy-React_Front_To_Back_2022-02-Github_Finder">02 - Github Finder</a> (2022)</td>
       <td><a href="https://gabriels-react-front-to-back-02-github-finder.vercel.app/">Deployed on Vercel</a></td>
     </tr>    
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/Brad_Traversy-React_Front_To_Back_2022-03-More_Advanced_React_Hooks">03 - More Advanced React Hooks</a> (2022)</td>
+      <td> - Not deployed - </td>
+    </tr>    
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/Brad_Traversy-React_Front_To_Back_2022-04-House_Marketplace">04 - House Marketplace</a> (2022)</td>
+      <td> - Not deployed - </td>
+    </tr>    
   </table>  
 </details>
 
