@@ -184,6 +184,10 @@
       <td><a href="https://github.com/ArpadGBondor/Web_challenge_6-Frontend_Mentor-Profile_card_component">Profile card component</a> (2021)</td>
       <td><a href="https://arpadgbondor.github.io/Web_challenge_6-Frontend_Mentor-Profile_card_component/">Deployed on GitHub Pages</a></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/Web_challenge_7-Frontend_Mentor-Advice-generator-app">Advice generator app</a> (2022)</td>
+      <td><a href="https://arpadgbondor.github.io/Web_challenge_7-Frontend_Mentor-Advice-generator-app/">Deployed on GitHub Pages</a></td>
+    </tr>
   </table>  
 </details>
 
