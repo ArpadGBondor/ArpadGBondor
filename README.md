@@ -166,14 +166,14 @@
 </details>
 
 <details>
-  <summary><strong>Challenges: <a href="https://www.codewars.com/">Codewars</a> (2021)</strong></summary>
+  <summary><strong>Challenges: <a href="https://www.codewars.com/">Codewars</a> (2021-2022)</strong></summary>
   <a href="https://www.codewars.com/users/ArpadGBondor" rel="nofollow"><img src="https://www.codewars.com/users/ArpadGBondor/badges/large"  alt="Codewars badge"/></a>
   <br />
-  Repository: <a href="https://github.com/ArpadGBondor/Codewars_Solutions">Codewars Solutions</a> (2021)
+  Repository: <a href="https://github.com/ArpadGBondor/Codewars_Solutions">Codewars Solutions</a> (2021-2022)
 </details>
 
 <details>
-  <summary><strong>Youtube tutorials: <a href="https://www.youtube.com/channel/UC5DNytAJ6_FISueUfzZCVsw">Code with Ania Kubów</a> (2021)</strong></summary>
+  <summary><strong>Youtube tutorials: <a href="https://www.youtube.com/channel/UC5DNytAJ6_FISueUfzZCVsw">Code with Ania Kubów</a> (2021-2022)</strong></summary>
   <br />
   <table>
     <tr>
