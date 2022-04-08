@@ -104,7 +104,7 @@
 </details>
 
 <details>
-  <summary><strong>Challenges: <a href="https://www.frontendmentor.io/">Frontend Mentor</a> (2020 - 2021)</strong></summary>
+  <summary><strong>Challenges: <a href="https://www.frontendmentor.io/">Frontend Mentor</a> (2020 - 2022)</strong></summary>
   <br />
   <table>
     <tr>
