@@ -63,7 +63,7 @@
     </tr>    
     <tr>
       <td><a href="https://github.com/ArpadGBondor/Brad_Traversy-React_Front_To_Back_2022-04-House_Marketplace">04 - House Marketplace</a> (2022)</td>
-      <td> - Not deployed - </td>
+      <td><a href="https://gabriels-react-front-to-back-07-house-marketplace.netlify.app/">Deployed on Netlify</a></td>
     </tr>    
   </table>  
 </details>
