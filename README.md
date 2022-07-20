@@ -42,7 +42,7 @@
 </table>
 
 <details>
-  <summary><strong>Udemy course: <a href="https://www.udemy.com/course/react-front-to-back-2022/" rel="nofollow">Brad Traversy - React Front To Back 2022</a> (2022)</strong></summary>
+  <summary><strong>Udemy course: <a href="https://www.udemy.com/course/react-front-to-back-2022/" rel="nofollow">Brad Traversy - React Front To Back 2022</a> (2022) (Complete)</strong></summary>
   <br />
   <table>
     <tr>
@@ -65,6 +65,10 @@
       <td><a href="https://github.com/ArpadGBondor/Brad_Traversy-React_Front_To_Back_2022-04-House_Marketplace">04 - House Marketplace</a> (2022)</td>
       <td><a href="https://gabriels-react-front-to-back-07-house-marketplace.netlify.app/">Deployed on Netlify</a></td>
     </tr>    
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/Brad_Traversy-React_Front_To_Back_2022-05-Support_Desk">05 - Support Desk</a> (2022)</td>
+      <td><a href="https://gabriel-support-ticket.herokuapp.com/">Deployed on Heroku</a></td>
+    </tr>
   </table>  
 </details>
 
