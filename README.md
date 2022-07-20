@@ -42,6 +42,18 @@
 </table>
 
 <details>
+  <summary><strong>Udemy course: <a href="https://www.udemy.com/course/aws-serverless-a-complete-introduction/" rel="nofollow">Maximilian Schwarzmüller - AWS Serverless APIs & Apps</a> (2022)</strong></summary>
+  <br />
+  <table>
+    <tr>
+      <th>Repository</th>
+      <th>Deployed</th>
+    </tr>
+  </table>  
+</details>
+
+
+<details>
   <summary><strong>Udemy course: <a href="https://www.udemy.com/course/react-front-to-back-2022/" rel="nofollow">Brad Traversy - React Front To Back 2022</a> (2022) (Complete)</strong></summary>
   <br />
   <table>
