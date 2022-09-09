@@ -801,19 +801,19 @@
     </tr>
     <tr>
       <td><a href="https://github.com/ArpadGBondor/The_App_Brewery-Back-end_project_01-BMI_calculator">Back-end 01: BMI calculator</a> (2020)</td>
-      <td> - Not deployed - </td>
+      <td> - Not deployed anymore - </td>
     </tr>
     <tr>
       <td><a href="https://github.com/ArpadGBondor/The_App_Brewery-Back-end_project_02-Weather_API">Back-end 02: Weather API</a> (2020)</td>
-      <td> - Not deployed - </td>
+      <td> - Not deployed anymore - </td>
     </tr>
     <tr>
       <td><a href="https://github.com/ArpadGBondor/The_App_Brewery-Back-end_project_03-Newsletter_Signup">Back-end 03: Newsletter Signup</a> (2020)</td>
-      <td><a href="https://gabriel-newsletter-signup.herokuapp.com/">Deployed on Heroku</a></td>
+      <td> - Not deployed anymore - </td>
     </tr>
     <tr>
       <td><a href="https://github.com/ArpadGBondor/The_App_Brewery-Back-end_project_04-To_Do_List">Back-end 04: To Do List</a> (2020)</td>
-      <td> - Not deployed - </td>
+      <td> - Not deployed anymore - </td>
     </tr>
     <tr>
       <td><a href="https://github.com/ArpadGBondor/The_App_Brewery-Back-end_project_05-Blog_website">Back-end 05: Blog website</a> (2020)</td>
