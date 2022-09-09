@@ -813,7 +813,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/ArpadGBondor/The_App_Brewery-Back-end_project_04-To_Do_List">Back-end 04: To Do List</a> (2020)</td>
-      <td><a href="https://gabriel-to-do-list.herokuapp.com/">Deployed on Heroku</a></td>
+      <td> - Not deployed - </td>
     </tr>
     <tr>
       <td><a href="https://github.com/ArpadGBondor/The_App_Brewery-Back-end_project_05-Blog_website">Back-end 05: Blog website</a> (2020)</td>
