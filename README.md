@@ -116,6 +116,10 @@
       <td><a href="https://github.com/ArpadGBondor/Brad_Traversy-Youtube_tutorials-06-TypeScript_crash_course">TypeScript Crash Course</a> (2022)</td>
       <td> - Not deployed - </td>
     </tr>    
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/Brad_Traversy-Youtube_tutorials-07-JSDoc-Crash-Course">JSDoc Crash Course</a> (2022)</td>
+      <td> - Not deployed - </td>
+    </tr>
   </table>  
 </details>
 
