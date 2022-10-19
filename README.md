@@ -4,10 +4,10 @@
 
 ### Hello, World! 👋
 
-- 💂 I'm currently working as a night porter to support myself while I'm growing my skill set, and building my portfolio.
-- 📚 My current tech stack includes HTML5, CSS3, Bootstrap, JavaScript, NodeJS, Express.js, EJS, SQL, MongoDB, and Serverless Functions.
-- 💻 I’m currently learning React.js
-- 💭 I'm looking forward to take more Udemy courses about React.js, JavaScript algorithms, Testing, Database management, SCSS, and Electron
+- 💂 I'm currently working as Software Engineer in Nottingham.
+- 📚 My current tech stack includes HTML5, CSS3, Bootstrap, JavaScript, NodeJS, Express.js, EJS, SQL, MongoDB, Serverless Functions, and React.js.
+- 💻 I’m currently learning Kendo UI, Frontend Monitoring and Testing.
+- 💭 I'm looking forward to take more Udemy courses about JavaScript algorithms, Testing, Database management, and Electron.
 - 💬 Ask me about anything. I have an approximate knowledge of many things.
 - 💖 Special thanks to everyone who starred my inventory management project! Seeing how many people appreciates my work, really helps me keep going.
 
