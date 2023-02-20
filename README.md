@@ -36,8 +36,12 @@
     <td><a href="https://arpadgbondor.github.io/CV/" rel="nofollow">Deployed on GitHub Pages</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/ArpadGBondor/Portfolio">My Portfolio site</a></td>
-    <td><a href="https://gabriel-bondor.herokuapp.com/" rel="nofollow">Deployed on Heroku</a></td>
+    <td><a href="https://github.com/ArpadGBondor/Portfolio-2022">My Portfolio (2022-2023) (Work in progress...)</a></td>
+    <td><a href="https://gabriel-bondor.herokuapp.com/" rel="nofollow">Deployed on Netlify</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ArpadGBondor/Portfolio">My Portfolio (2020-2021)</a></td>
+    <td> - Not deployed anymore - </td>
   </tr>
 </table>
 
