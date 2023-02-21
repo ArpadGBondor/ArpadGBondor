@@ -37,7 +37,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/ArpadGBondor/Portfolio-2022">My Portfolio (2022-2023) (Work in progress...)</a></td>
-    <td><a href="https://gabriel-bondor.herokuapp.com/" rel="nofollow">Deployed on Netlify</a></td>
+    <td><a href="https://gabriel-bondor.netlify.app" rel="nofollow">Deployed on Netlify</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/ArpadGBondor/Portfolio">My Portfolio (2020-2021)</a></td>
