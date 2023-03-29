@@ -124,6 +124,10 @@
       <td><a href="https://github.com/ArpadGBondor/Brad_Traversy-Youtube_tutorials-07-JSDoc-Crash-Course">JSDoc Crash Course</a> (2022)</td>
       <td> - Not deployed - </td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/Brad_Traversy-Youtube_tutorials-08-Nest-Crash-Course">Nest.js Crash Course</a> (2023)</td>
+      <td> - Not deployed - </td>
+    </tr>
   </table>  
 </details>
 
