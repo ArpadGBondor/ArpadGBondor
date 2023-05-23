@@ -46,13 +46,18 @@
 </table>
 
 <details>
-  <summary><strong>Udemy course: <a href="https://www.udemy.com/course/aws-serverless-a-complete-introduction/" rel="nofollow">Maximilian Schwarzmüller - AWS Serverless APIs & Apps</a> (2022)</strong></summary>
+  <summary><strong>Youtube tutorials: <a href="https://www.youtube.com/@PedroTechnologies">PedroTech</a> (2023)</strong></summary>
+</strong></summary>
   <br />
   <table>
     <tr>
       <th>Repository</th>
       <th>Deployed</th>
     </tr>
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/PedroTech_-_01_-_Prisma_ORM_Tutorial">01 - Prisma ORM Tutorial</a> (2023)</td>
+      <td> - Not deployed - </td>
+    </tr>    
   </table>  
 </details>
 
