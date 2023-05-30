@@ -46,6 +46,21 @@
 </table>
 
 <details>
+  <summary><strong>Udemy course: <a href="https://www.udemy.com/course/nestjs-microservices-build-deploy-a-scaleable-backend/" rel="nofollow">Michael Guay - NestJS Microservices: Build & Deploy a Scaleable Backend</a> (2023)</strong></summary>
+  <br />
+  <table>
+    <tr>
+      <th>Repository</th>
+      <th>Deployed</th>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/Michael_Guay_-_NestJS_Microservices_-_01_Sleepr">01 - Sleepr</a> (2023)</td>
+      <td> - Not deployed - </td>
+    </tr>
+  </table>  
+</details>
+
+<details>
   <summary><strong>Youtube tutorials: <a href="https://www.youtube.com/@PedroTechnologies">PedroTech</a> (2023)</strong></summary>
 </strong></summary>
   <br />
