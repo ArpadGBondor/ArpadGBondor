@@ -36,7 +36,7 @@
     <td><a href="https://arpadgbondor.github.io/CV/" rel="nofollow">Deployed on GitHub Pages</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/ArpadGBondor/Portfolio-2022">My Portfolio (2022-2023) (Work in progress...)</a></td>
+    <td><a href="https://github.com/ArpadGBondor/Portfolio-2022">My Portfolio (2022-2023)</a></td>
     <td><a href="https://gabriel-bondor.netlify.app" rel="nofollow">Deployed on Netlify</a></td>
   </tr>
   <tr>
