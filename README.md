@@ -278,7 +278,7 @@
 </details>
 
 <details>
-  <summary><strong>Challenges: <a href="https://cssbattle.dev/" rel="nofollow">CSS Battle</a> (2021) (Complete: 1-76)</strong></summary>
+  <summary><strong>Challenges: <a href="https://cssbattle.dev/" rel="nofollow">CSS Battle</a> (2021) (Complete: 1-77)</strong></summary>
   <br />
   <table>
     <tr>
@@ -588,6 +588,10 @@
     <tr>
       <td><a href="https://github.com/ArpadGBondor/CSSBattle-76">CSS Battle - #76 Beeee</a></td>
       <td><a href="https://arpadgbondor.github.io/CSSBattle-76/" rel="nofollow">Demo</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/CSSBattle-77">CSS Battle - #77 Notes</a></td>
+      <td><a href="https://arpadgbondor.github.io/CSSBattle-77/" rel="nofollow">Demo</a></td>
     </tr>
   </table>  
 </details>
