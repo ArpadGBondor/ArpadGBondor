@@ -109,7 +109,7 @@
 </details>
 
 <details>
-  <summary><strong>Youtube tutorials: <a href="https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA">Brad Traversy - Traversy Media</a> (2021-2023)</strong></summary>
+  <summary><strong>Youtube tutorials: <a href="https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA">Brad Traversy - Traversy Media</a> (2021-2024)</strong></summary>
   <br />
   <table>
     <tr>
@@ -147,6 +147,10 @@
     <tr>
       <td><a href="https://github.com/ArpadGBondor/Brad_Traversy-Youtube_tutorials-08-Nest-Crash-Course">Nest.js Crash Course</a> (2023)</td>
       <td> - Not deployed - </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/Brad_Traversy-Youtube_tutorials-09-Angular-Crash-Course">Angular Crash Course</a> (2024)</td>
+      <td><a href="https://gabriels-brad-traversy-angular-crash.netlify.app/">Deployed on Netlify</a></td>
     </tr>
   </table>  
 </details>
