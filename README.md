@@ -89,6 +89,53 @@
 </details>
 
 <details>
+  <summary><strong>Youtube tutorials: <a href="https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA">Brad Traversy - Traversy Media</a> (2021-2024)</strong></summary>
+  <br />
+  <table>
+    <tr>
+      <th>Repository</th>
+      <th>Deployed</th>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/Brad_Traversy-Youtube_tutorials-01-jest_testing_basics">Jest Crash Course</a> (2021)</td>
+      <td> - Not deployed - </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/Brad_Traversy-Youtube_tutorials-02-React-js-basics">React.js Crash Course</a> (2021)</td>
+      <td><a href="https://gabriels-youtube-tutorial-brad-traversy-react-crash-course.netlify.app/">Deployed on Netlify</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/Brad_Traversy-Youtube_tutorials-03-Next-js-basics">Next.js Crash Course</a> (2021)</td>
+      <td><a href="https://gabriel-tutorials-next-js-crash-course.vercel.app/">Deployed on Vercel</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/Brad_Traversy-Youtube_tutorials-04-Vue-js-basics">Vue.js Crash Course</a> (2021)</td>
+      <td><a href="https://gabriels-youtube-tutorial-brad-traversy-vue-crash-course.netlify.app/">Deployed on Netlify</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/Brad_Traversy-Youtube_tutorials-05-React-Native-basics">React-Native Crash Course</a> (2021)</td>
+      <td> - Not deployed - </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/Brad_Traversy-Youtube_tutorials-06-TypeScript_crash_course">TypeScript Crash Course</a> (2022)</td>
+      <td> - Not deployed - </td>
+    </tr>    
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/Brad_Traversy-Youtube_tutorials-07-JSDoc-Crash-Course">JSDoc Crash Course</a> (2022)</td>
+      <td> - Not deployed - </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/Brad_Traversy-Youtube_tutorials-08-Nest-Crash-Course">Nest.js Crash Course</a> (2023)</td>
+      <td> - Not deployed - </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/Brad_Traversy-Youtube_tutorials-09-Angular-Crash-Course">Angular Crash Course</a> (2024)</td>
+      <td><a href="https://gabriels-brad-traversy-angular-crash.netlify.app/">Deployed on Netlify</a></td>
+    </tr>
+  </table>  
+</details>
+
+<details>
   <summary><strong>Udemy course: <a href="https://www.udemy.com/course/nestjs-microservices-build-deploy-a-scaleable-backend/" rel="nofollow">Michael Guay - NestJS Microservices: Build & Deploy a Scaleable Backend</a> (2023)</strong></summary>
   <br />
   <table>
@@ -147,53 +194,6 @@
     <tr>
       <td><a href="https://github.com/ArpadGBondor/Brad_Traversy-React_Front_To_Back_2022-05-Support_Desk">05 - Support Desk</a> (2022)</td>
       <td><a href="https://gabriel-support-ticket.herokuapp.com/">Deployed on Heroku</a></td>
-    </tr>
-  </table>  
-</details>
-
-<details>
-  <summary><strong>Youtube tutorials: <a href="https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA">Brad Traversy - Traversy Media</a> (2021-2024)</strong></summary>
-  <br />
-  <table>
-    <tr>
-      <th>Repository</th>
-      <th>Deployed</th>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/ArpadGBondor/Brad_Traversy-Youtube_tutorials-01-jest_testing_basics">Jest Crash Course</a> (2021)</td>
-      <td> - Not deployed - </td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/ArpadGBondor/Brad_Traversy-Youtube_tutorials-02-React-js-basics">React.js Crash Course</a> (2021)</td>
-      <td><a href="https://gabriels-youtube-tutorial-brad-traversy-react-crash-course.netlify.app/">Deployed on Netlify</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/ArpadGBondor/Brad_Traversy-Youtube_tutorials-03-Next-js-basics">Next.js Crash Course</a> (2021)</td>
-      <td><a href="https://gabriel-tutorials-next-js-crash-course.vercel.app/">Deployed on Vercel</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/ArpadGBondor/Brad_Traversy-Youtube_tutorials-04-Vue-js-basics">Vue.js Crash Course</a> (2021)</td>
-      <td><a href="https://gabriels-youtube-tutorial-brad-traversy-vue-crash-course.netlify.app/">Deployed on Netlify</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/ArpadGBondor/Brad_Traversy-Youtube_tutorials-05-React-Native-basics">React-Native Crash Course</a> (2021)</td>
-      <td> - Not deployed - </td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/ArpadGBondor/Brad_Traversy-Youtube_tutorials-06-TypeScript_crash_course">TypeScript Crash Course</a> (2022)</td>
-      <td> - Not deployed - </td>
-    </tr>    
-    <tr>
-      <td><a href="https://github.com/ArpadGBondor/Brad_Traversy-Youtube_tutorials-07-JSDoc-Crash-Course">JSDoc Crash Course</a> (2022)</td>
-      <td> - Not deployed - </td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/ArpadGBondor/Brad_Traversy-Youtube_tutorials-08-Nest-Crash-Course">Nest.js Crash Course</a> (2023)</td>
-      <td> - Not deployed - </td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/ArpadGBondor/Brad_Traversy-Youtube_tutorials-09-Angular-Crash-Course">Angular Crash Course</a> (2024)</td>
-      <td><a href="https://gabriels-brad-traversy-angular-crash.netlify.app/">Deployed on Netlify</a></td>
     </tr>
   </table>  
 </details>
