@@ -20,7 +20,7 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ArpadGBondor&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-six-sage.vercel.app/?user=ArpadGBondor&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
