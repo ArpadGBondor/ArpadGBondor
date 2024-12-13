@@ -20,7 +20,7 @@
 
 ---
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ArpadGBondor&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ArpadGBondor&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
