@@ -46,6 +46,13 @@
 </table>
 
 <details>
+  <summary><strong>Challenges: <a href="https://www.codewars.com/">Codewars</a> (2021-2024)</strong></summary>
+  <a href="https://www.codewars.com/users/ArpadGBondor" rel="nofollow"><img src="https://www.codewars.com/users/ArpadGBondor/badges/large"  alt="Codewars badge"/></a>
+  <br />
+  Repository: <a href="https://github.com/ArpadGBondor/Codewars_Solutions">Codewars Solutions</a> (2021-2024)
+</details>
+
+<details>
   <summary><strong>Challenges: <a href="https://www.frontendmentor.io/">Frontend Mentor</a> (2020 - 2024)</strong></summary>
   <br />
   <table>
@@ -196,13 +203,6 @@
       <td><a href="https://gabriel-support-ticket.herokuapp.com/">Deployed on Heroku</a></td>
     </tr>
   </table>  
-</details>
-
-<details>
-  <summary><strong>Challenges: <a href="https://www.codewars.com/">Codewars</a> (2021-2022)</strong></summary>
-  <a href="https://www.codewars.com/users/ArpadGBondor" rel="nofollow"><img src="https://www.codewars.com/users/ArpadGBondor/badges/large"  alt="Codewars badge"/></a>
-  <br />
-  Repository: <a href="https://github.com/ArpadGBondor/Codewars_Solutions">Codewars Solutions</a> (2021-2022)
 </details>
 
 <details>
