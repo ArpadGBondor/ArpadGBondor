@@ -5,9 +5,8 @@
 ### Hello, World! 👋
 
 - 💂 I'm currently working as Software Engineer in Nottingham.
-- 📚 My current tech stack includes HTML5, CSS3, Bootstrap, JavaScript, NodeJS, Express.js, EJS, SQL, MongoDB, Serverless Functions, and React.js.
-- 💻 I’m currently learning Kendo UI, Frontend Monitoring and Testing.
-- 💭 I'm looking forward to take more Udemy courses about JavaScript algorithms, Testing, Database management, and Electron.
+- 📚 My current tech stack includes HTML5, CSS3, Tailwind, JavaScript, Node.js, Express.js, EJS, Nuxt.js, Vue.js, SQL, MongoDB, Serverless Functions, and Google Cloud tools.
+- 💻 I’m currently refreshing my C# and SQL knowledge.
 - 💬 Ask me about anything. I have an approximate knowledge of many things.
 - 💖 Special thanks to everyone who starred my inventory management project! Seeing how many people appreciates my work, really helps me keep going.
 
