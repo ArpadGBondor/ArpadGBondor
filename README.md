@@ -35,7 +35,7 @@
     <td><a href="https://arpadgbondor.github.io/CV/" rel="nofollow">Deployed on GitHub Pages</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/ArpadGBondor/Portfolio-2022">My Portfolio (2022-2024)</a></td>
+    <td><a href="https://github.com/ArpadGBondor/Portfolio-2022">My Portfolio (2022-2025)</a></td>
     <td><a href="https://gabriel-bondor.netlify.app" rel="nofollow">Deployed on Netlify</a></td>
   </tr>
   <tr>
@@ -45,10 +45,10 @@
 </table>
 
 <details>
-  <summary><strong>Challenges: <a href="https://www.codewars.com/">Codewars</a> (2021-2024)</strong></summary>
+  <summary><strong>Challenges: <a href="https://www.codewars.com/">Codewars</a> (2021-2025)</strong></summary>
   <a href="https://www.codewars.com/users/ArpadGBondor" rel="nofollow"><img src="https://www.codewars.com/users/ArpadGBondor/badges/large"  alt="Codewars badge"/></a>
   <br />
-  Repository: <a href="https://github.com/ArpadGBondor/Codewars_Solutions">Codewars Solutions</a> (2021-2024)
+  Repository: <a href="https://github.com/ArpadGBondor/Codewars_Solutions">Codewars Solutions</a> (2021-2025)
 </details>
 
 <details>
