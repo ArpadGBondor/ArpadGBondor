@@ -45,14 +45,7 @@
 </table>
 
 <details>
-  <summary><strong>Challenges: <a href="https://www.codewars.com/">Codewars</a> (2021-2025)</strong></summary>
-  <a href="https://www.codewars.com/users/ArpadGBondor" rel="nofollow"><img src="https://www.codewars.com/users/ArpadGBondor/badges/large"  alt="Codewars badge"/></a>
-  <br />
-  Repository: <a href="https://github.com/ArpadGBondor/Codewars_Solutions">Codewars Solutions</a> (2021-2025)
-</details>
-
-<details>
-  <summary><strong>Challenges: <a href="https://www.frontendmentor.io/">Frontend Mentor</a> (2020 - 2024)</strong></summary>
+  <summary><strong>Challenges: <a href="https://www.frontendmentor.io/">Frontend Mentor</a> (2020 - 2025)</strong></summary>
   <br />
   <table>
     <tr>
@@ -96,6 +89,13 @@
       <td><a href="https://arpadgbondor.github.io/Web_challenge_1-Frontend_Mentor-Social_proof_section/">Deployed on GitHub Pages</a></td>
     </tr>
   </table>  
+</details>
+
+<details>
+  <summary><strong>Challenges: <a href="https://www.codewars.com/">Codewars</a> (2021-2025)</strong></summary>
+  <a href="https://www.codewars.com/users/ArpadGBondor" rel="nofollow"><img src="https://www.codewars.com/users/ArpadGBondor/badges/large"  alt="Codewars badge"/></a>
+  <br />
+  Repository: <a href="https://github.com/ArpadGBondor/Codewars_Solutions">Codewars Solutions</a> (2021-2025)
 </details>
 
 <details>
