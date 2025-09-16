@@ -60,36 +60,40 @@
       <th>Deployed</th>
     </tr>
     <tr>
-      <td><a href="https://github.com/ArpadGBondor/Web_challenge_1-Frontend_Mentor-Social_proof_section">Social Proof Section</a> (2020)</td>
-      <td><a href="https://arpadgbondor.github.io/Web_challenge_1-Frontend_Mentor-Social_proof_section/">Deployed on GitHub Pages</a></td>
+      <td><a href="https://github.com/ArpadGBondor/Web_challenge_9-Frontend_Mentor-Conference_Ticket_Genarator">Conference Ticket Generator</a> (2025)</td>
+      <td><a href="https://gabriel-fem-9-conference-ticket-gen.vercel.app/">Deployed on Vercel</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/ArpadGBondor/Web_challenge_2-Frontend_Mentor-Single-price-grid-component">Single Price Grid Component</a> (2020)</td>
-      <td><a href="https://arpadgbondor.github.io/Web_challenge_2-Frontend_Mentor-Single-price-grid-component/">Deployed on GitHub Pages</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/ArpadGBondor/Web_challenge_3-Frontend_Mentor-Huddle_landing_page_with_curved_sections">Huddle landing page with curved sections</a> (2020)</td>
-      <td><a href="https://arpadgbondor.github.io/Web_challenge_3-Frontend_Mentor-Huddle_landing_page_with_curved_sections/">Deployed on GitHub Pages</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/ArpadGBondor/Web_challenge_4-Frontend_Mentor-Stats_preview_card_component">Stats preview card component</a> (2021)</td>
-      <td><a href="https://arpadgbondor.github.io/Web_challenge_4-Frontend_Mentor-Stats_preview_card_component/">Deployed on GitHub Pages</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/ArpadGBondor/Web_challenge_5-Frontend_Mentor-3-column_preview_card_component">3-column preview card component</a> (2021)</td>
-      <td><a href="https://arpadgbondor.github.io/Web_challenge_5-Frontend_Mentor-3-column_preview_card_component/">Deployed on GitHub Pages</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/ArpadGBondor/Web_challenge_6-Frontend_Mentor-Profile_card_component">Profile card component</a> (2021)</td>
-      <td><a href="https://arpadgbondor.github.io/Web_challenge_6-Frontend_Mentor-Profile_card_component/">Deployed on GitHub Pages</a></td>
+      <td><a href="https://github.com/ArpadGBondor/Web_challenge_8-Frontend_Mentor-Rock_paper_scissors_master">Rock, Paper, Scissors</a> (2024)</td>
+      <td><a href="https://gabriel-fem-8-rock-paper-scissors.netlify.app/">Deployed on Netlify</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/ArpadGBondor/Web_challenge_7-Frontend_Mentor-Advice-generator-app">Advice generator app</a> (2022)</td>
       <td><a href="https://arpadgbondor.github.io/Web_challenge_7-Frontend_Mentor-Advice-generator-app/">Deployed on GitHub Pages</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/ArpadGBondor/Web_challenge_8-Frontend_Mentor-Rock_paper_scissors_master">Rock, Paper, Scissors</a> (2024)</td>
-      <td><a href="https://gabriel-fem-8-rock-paper-scissors.netlify.app/">Deployed on Netlify</a></td>
+      <td><a href="https://github.com/ArpadGBondor/Web_challenge_6-Frontend_Mentor-Profile_card_component">Profile card component</a> (2021)</td>
+      <td><a href="https://arpadgbondor.github.io/Web_challenge_6-Frontend_Mentor-Profile_card_component/">Deployed on GitHub Pages</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/Web_challenge_5-Frontend_Mentor-3-column_preview_card_component">3-column preview card component</a> (2021)</td>
+      <td><a href="https://arpadgbondor.github.io/Web_challenge_5-Frontend_Mentor-3-column_preview_card_component/">Deployed on GitHub Pages</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/Web_challenge_4-Frontend_Mentor-Stats_preview_card_component">Stats preview card component</a> (2021)</td>
+      <td><a href="https://arpadgbondor.github.io/Web_challenge_4-Frontend_Mentor-Stats_preview_card_component/">Deployed on GitHub Pages</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/Web_challenge_3-Frontend_Mentor-Huddle_landing_page_with_curved_sections">Huddle landing page with curved sections</a> (2020)</td>
+      <td><a href="https://arpadgbondor.github.io/Web_challenge_3-Frontend_Mentor-Huddle_landing_page_with_curved_sections/">Deployed on GitHub Pages</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/Web_challenge_2-Frontend_Mentor-Single-price-grid-component">Single Price Grid Component</a> (2020)</td>
+      <td><a href="https://arpadgbondor.github.io/Web_challenge_2-Frontend_Mentor-Single-price-grid-component/">Deployed on GitHub Pages</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/Web_challenge_1-Frontend_Mentor-Social_proof_section">Social Proof Section</a> (2020)</td>
+      <td><a href="https://arpadgbondor.github.io/Web_challenge_1-Frontend_Mentor-Social_proof_section/">Deployed on GitHub Pages</a></td>
     </tr>
   </table>  
 </details>
