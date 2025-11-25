@@ -1,4 +1,4 @@
-[![Gabriel's github stats]([https://github-readme-stats-delta-tan.vercel.app/api?username=ArpadGBondor&theme=radical&show_icons=true&custom_title=Gabriel%27s%20Github%20Stats&&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Gabriel's github stats](https://github-readme-stats-delta-tan.vercel.app/api?username=ArpadGBondor&theme=radical&show_icons=true&custom_title=Gabriel%27s%20Github%20Stats&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
