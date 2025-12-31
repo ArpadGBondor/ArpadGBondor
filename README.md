@@ -31,6 +31,10 @@
     <th>Deployed</th>
   </tr>
   <tr>
+    <td>New demo project: <a href="https://github.com/ArpadGBondor/Leave-Management">Leave Management</a> (2025)</td>
+    <td><a href="gabriel-leave-management.netlify.app/" rel="nofollow">Deployed on Netlify</a></td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/ArpadGBondor/CV">My online resume</a></td>
     <td><a href="https://arpadgbondor.github.io/CV/" rel="nofollow">Deployed on GitHub Pages</a></td>
   </tr>
@@ -43,6 +47,7 @@
     <td> - Not deployed anymore - </td>
   </tr>
 </table>
+
 
 <details>
   <summary><strong>Challenges: <a href="https://www.frontendmentor.io/">Frontend Mentor</a> (2020 - 2025)</strong></summary>
