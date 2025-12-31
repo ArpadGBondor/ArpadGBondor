@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <td>New demo project: <a href="https://github.com/ArpadGBondor/Leave-Management">Leave Management</a> (2025)</td>
-    <td><a href="gabriel-leave-management.netlify.app/" rel="nofollow">Deployed on Netlify</a></td>
+    <td><a href="https://gabriel-leave-management.netlify.app/" rel="nofollow">Deployed on Netlify</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/ArpadGBondor/CV">My online resume</a></td>
