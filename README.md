@@ -4,11 +4,18 @@
 
 ### Hello, World! 👋
 
-- 💂 I'm currently working as Software Engineer in Nottingham.
-- 📚 My current tech stack includes HTML5, CSS3, Tailwind, JavaScript, Node.js, Express.js, EJS, Nuxt.js, Vue.js, SQL, MongoDB, Serverless Functions, and Google Cloud tools.
-- 💻 I’m currently refreshing my C# and SQL knowledge.
-- 💬 Ask me about anything. I have an approximate knowledge of many things.
-- 💖 Special thanks to everyone who starred my inventory management project! Seeing how many people appreciates my work, really helps me keep going.
+I'm Gabriel, a full-stack software engineer based in Scotland, originally from Hungary. I enjoy working on real-world systems, solving practical problems, and leaving codebases in a better state than I found them.
+
+- 💼 Currently working as a Software Engineer, contributing to and maintaining multiple production systems
+- 🧠 Strong focus on problem-solving, debugging, and delivering reliable, maintainable solutions
+- 🧩 Comfortable working across the stack, from frontend features to deployments and production support
+- 🔧 Main tools: TypeScript, Vue, Nuxt, Tailwind, Node.js, Google Cloud, CI/CD pipelines
+- 📚 Currently learning Python and occasionally revisiting C# and SQL to keep fundamentals sharp
+- 💬 Happy to talk about debugging, legacy systems, production issues, or pragmatic engineering in general
+
+I take pride in my work, value clean and thoughtful solutions, and enjoy projects where attention to detail and ownership matter.
+
+---
 
 ### Contact me:
 
