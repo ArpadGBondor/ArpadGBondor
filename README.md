@@ -57,6 +57,22 @@ I take pride in my work, value clean and thoughtful solutions, and enjoy project
 
 
 <details>
+  <summary><strong>Udemy course: <a href="https://www.udemy.com/course/great-python-projects/" rel="nofollow">Federico Azzuro - 30 Great Python Projects</a> (2026)</strong></summary>
+  <br />
+  <table>
+    <tr>
+      <th>Repository</th>
+      <th>Deployed</th>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/Federico_Azzuro-30_Great_Python_Projects">30 Great Python Projects</a> (2026)</td>
+      <td> - Not deployed - </td>
+    </tr>
+  </table>  
+</details>
+
+
+<details>
   <summary><strong>Challenges: <a href="https://www.frontendmentor.io/">Frontend Mentor</a> (2020 - 2025)</strong></summary>
   <br />
   <table>
