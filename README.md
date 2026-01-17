@@ -111,7 +111,7 @@ I take pride in my work, value clean and thoughtful solutions, and enjoy project
 </details>
 
 <details>
-  <summary><strong>Youtube tutorials: <a href="https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA">Brad Traversy - Traversy Media</a> (2021-2024)</strong></summary>
+  <summary><strong>Youtube tutorials: <a href="https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA">Brad Traversy - Traversy Media</a> (2021-2026)</strong></summary>
   <br />
   <table>
     <tr>
@@ -153,6 +153,10 @@ I take pride in my work, value clean and thoughtful solutions, and enjoy project
     <tr>
       <td><a href="https://github.com/ArpadGBondor/Brad_Traversy-Youtube_tutorials-09-Angular-Crash-Course">Angular Crash Course</a> (2024)</td>
       <td><a href="https://gabriels-brad-traversy-angular-crash.netlify.app/">Deployed on Netlify</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ArpadGBondor/Brad_Traversy-Youtube_tutorials-10-Python-Crash-Course">Python Crash Course</a> (2026)</td>
+      <td> - Not deployed - </td>
     </tr>
   </table>  
 </details>
