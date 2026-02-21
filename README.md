@@ -76,7 +76,7 @@ I take pride in my work, value clean and thoughtful solutions, and enjoy project
   <summary><strong>Challenges: <a href="https://www.codewars.com/">Codewars</a> (2021-2026)</strong></summary>
   <a href="https://www.codewars.com/users/ArpadGBondor" rel="nofollow"><img src="https://www.codewars.com/users/ArpadGBondor/badges/large"  alt="Codewars badge"/></a>
   <br />
-  Repository: <a href="https://github.com/ArpadGBondor/Codewars_Solutions">Codewars Solutions</a> (2021-2025)
+  Repository: <a href="https://github.com/ArpadGBondor/Codewars_Solutions">Codewars Solutions</a> (2021-2026)
 </details>
 
 
