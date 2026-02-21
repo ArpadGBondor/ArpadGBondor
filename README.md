@@ -65,7 +65,7 @@ I take pride in my work, value clean and thoughtful solutions, and enjoy project
       <th>Deployed</th>
     </tr>
     <tr>
-      <td><a href="https://github.com/ArpadGBondor/Federico_Azzuro-30_Great_Python_Projects">30 Great Python Projects</a> (2026)</td>
+      <td><a href="https://github.com/ArpadGBondor/Federico_Azzuro-30_Great_Python_Projects">30 Great Python Projects</a> (2026) (Complete)</td>
       <td> - Not deployed - </td>
     </tr>
   </table>  
